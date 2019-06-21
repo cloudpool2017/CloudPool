@@ -1,0 +1,39 @@
+<div id="article-banner">
+  <h2>分类</h2>
+  <p class="post-date">随便看看</p>
+</div>
+<main class="app-body">
+  <div id="category-cloud">
+    <% site.categories.map(function(category, index) { %>
+      <a class="category<%= Math.round(Math.random() * 4) %>" data-name="category-<%= category.name %>"><%= category.name %></a>
+    <% }) %>
+  </div>
+  <% site.categories.map(function(category, index){ %>
+    <div class="category-list">
+      <h3 class="category-name" id="category-<%= category.name %>"><%= category.name %></h3>
+      <% category.posts.map(function(post) { %>
+        <ul class="category-preview">
+          <li>
+            <a href="<%- config.root %><%- post.path %>" target="_blank"><%- post.title || "Untitled" %></a>
+          </li>
+        </ul>
+        <% }) %>
+    </div>
+    <% }) %>
+</main>
+
+<script>
+  (function () {
+    var url = '<%= config.url %>/<%= page.path %>'
+    $('#article-banner').geopattern(url)
+    $('.header').removeClass('fixed-header')
+
+    var category = location.hash.replace('#', '')
+    if (category) {
+      var categoryId = "#category-" + category;
+      $("html, body").animate({
+        scrollTop: $(categoryId).offset().top 
+      }, 400)
+    }
+  })();
+</script>

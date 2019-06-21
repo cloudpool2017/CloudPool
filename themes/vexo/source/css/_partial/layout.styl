@@ -1,0 +1,40 @@
+.live2d
+  @media m-mobile
+    display:none 
+
+.sidebar
+  cursor: pointer
+  position: fixed
+  box-sizing: border-box
+  right: -1.5em
+  bottom: 3em
+  width: 7.5em
+  height: 2.5em
+  padding: .3em
+  background-color: color-primary
+  border-radius: 1.25em
+  transform: translate(4em, 0)
+  transition: all .3s ease 1.5s
+  -webkit-transition: all .3s ease 1.5s
+  box-shadow: 0 0 .2em 0 rgba(0,0,0,.12), 0 .2em .2em 0 rgba(0,0,0,.24)
+  &:hover
+    right: 1em
+    transition-delay: 0s
+    -webkit-transition-delay: 0s
+
+.scroll-top
+  color: white
+  font-size: 2em
+  width: 1em
+
+.share-icon
+  color: white
+  font-size: 2em
+  width: 1em
+  display: inline
+  .list-icon
+    position: relative
+    display: block
+    width: 1em
+    bottom: 6.5em
+    left: 1em

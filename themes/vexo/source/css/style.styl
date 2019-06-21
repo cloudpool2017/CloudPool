@@ -1,0 +1,187 @@
+@import "_config"
+@font-face
+  font-family: 'Source Sans Pro'
+  src: url('../fonts/SourceSansPro.ttf')
+
+::selection
+  background: color-primary
+  color: color-white
+
+::-webkit-scrollbar
+  display: none
+
+body
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+  -webkit-text-size-adjust: none
+  position: relative
+  height: 100%
+  margin: 0 
+  color: color-dark
+  font-size: 16px
+  @media m-mobile
+    font-size: 15px
+
+ol, ul, form, p
+  margin: 0
+
+a
+  text-decoration: none
+  color: color-primary
+  cursor: pointer
+
+p
+  word-spacing: 0.05em
+
+pre
+  overflow-x: auto
+
+.flex-box
+  display: flex
+  display: -ms-flexbox
+  display: -webkit-box
+  display: -webkit-flex
+  transform: unset !important
+
+.app-body
+  padding: 2em 1em
+  margin: 0 auto
+  @media m-mobile
+      margin: 0 1.2em
+  @media m-pad
+      margin: 0 1.2em
+  height: 100%
+  max-width: 1200px
+  position: relative
+  opacity: 0
+  transform: translateY(-20px)
+  transition: all 0.4s
+
+.hljs
+  background: none !important
+
+.tags
+  margin: 15px 0
+  span
+    &:first-child
+      margin-right: 10px
+      font-weight: 600
+
+.tag-code
+  font-family: 'Roboto Mono', Monaco, courier, monospace
+  font-size: .8em
+  display: inline-block
+  background-color: color-background
+  color: color-orange
+  padding: 3px 5px
+  margin: 0 2px 5px 0
+  border-radius: 2px
+  white-space: nowrap
+
+.categories
+  margin: 15px 0
+  span
+    &:first-child
+      margin-right: 10px
+      font-weight: 600
+
+.categories-code
+  font-family: 'Roboto Mono', Monaco, courier, monospace
+  font-size: .8em
+  display: inline-block
+  background-color: color-background
+  color: color-orange
+  padding: 3px 5px
+  margin: 0 2px 5px 0
+  border-radius: 2px
+  white-space: nowrap
+
+.article-card
+  font-style: normal
+  padding-bottom: 20px
+  &:first-child
+    margin-top: 60px
+
+h2.article-head
+  font-style: normal
+  font-size: 1.6em
+  margin-bottom: 0
+
+.article-head > a
+  font-style: normal
+  color: color-dark
+  &:hover
+    border-bottom: 2px solid color-primary
+
+.article-date
+  font-style: normal
+  color: color-gray
+  margin: 10px 0
+  font-size: 0.9em
+
+.article-summary
+  font-style: italic
+  margin: 10px 0
+  color: color-dark
+
+.more
+  font-weight: 600
+  display: inline-block
+  transition: all 0.3s
+  &:hover
+    transform: translateX(10px)
+
+.notice
+  font-size: 12px
+  display: block
+  margin-top: 10px
+  text-align: center
+  color: color-gray
+  font-style: italic
+
+.image-view-wrap
+  position: fixed
+  top: 0
+  left: 0
+  bottom: 0
+  right: 0
+  z-index: 1000
+  transition: all 0.3s ease-in-out
+  .image-view-inner
+    position: relative
+  img
+    display: block
+    margin: 0 auto
+    cursor: zoom-out
+    transition: all 0.3s ease-in-out
+
+.wrap-active
+  background-color: rgba(255, 255, 255, .9)
+
+.small-icon
+  width: 1em
+  margin-right: 2px
+  border-radius: 100%
+
+@keyframes shine
+  0%, 100%
+    opacity: .1
+  25%, 75%
+    opacity: .2
+  50%
+    opacity: 1
+ 
+@import "_partial/header"
+@import "_partial/footer"
+@import "_partial/pager"
+@import "_partial/post"
+@import "_partial/layout"
+@import "_partial/nav"
+@import "_pages/archives"
+@import "_pages/about"
+@import "_pages/catalog"
+@import "_pages/categories"
+@import "_pages/tags"
+@import "_pages/subterranean"
+@import "magazine/cloudpoolmag"

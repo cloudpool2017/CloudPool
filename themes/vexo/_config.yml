@@ -1,0 +1,48 @@
+excerpt_link: 阅读全文
+
+menu:
+ 主页: /
+ 分类: /category/
+ 标签: /tag/
+ 归档: /archive/
+ 网刊: /cloudpoolmag/
+ 关于: /about/
+
+social:
+  email: cloudpool2017@gmail.com
+  sina: http://v.t.sina.com.cn/share/share.php?
+  douban: https://www.douban.com/recommend/?
+  tieba: http://tieba.baidu.com/f/commit/share/openShareApi?
+  qzone: https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?
+  qq: https://connect.qq.com/widget/shareqq/index.html?
+
+
+# highlight
+highlight:
+  tomorrow
+
+# catalog
+catalog: true
+
+# donate
+donate: true
+
+# qrcode
+qrcode: true
+
+baidu_id: 
+
+# MathJax Support
+mathjax:
+  enable: false
+  per_page: false
+  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
+
+# Comment
+comment:
+  valine:
+    appId: FFILiRjt6XzkMwRRA630lhlz-gzGzoHsz
+    appKey: eDpEqPczDrnftRF0pt1KQUy5
+    placeholder: 说点什么8
+    pageSize: 8
+    guest_info: nick,mail,link

@@ -1,0 +1,29 @@
+<div class="sidebar">
+  <span class="fa fa-arrow-up scroll-top"></span>
+  <span class="fa fa-share-alt share-icon">
+    <span class="list-icon">
+      <% if (theme.social.qzone) { %>
+        <a class="fa" href="<%-theme.social.qzone%>url=<%-config.url%>&title=<%-config.title%>&pics=<%-config.url+config.logo%>&desc=<%=config.description%>&summary=<%=config.summary%>" class="fa" style="position:relative" aria-hidden="true" target="_blank">
+          <span style="color:white;position:absolute;font-size:.9em;font-weight:bold">ｚ</span>  
+          <span class="fa-star"></span>
+        </a> 
+      <% } %>
+      <% if (theme.social.sina) { %>
+        <a href="<%-theme.social.sina%>url=<%-config.url%>&title=<%-config.title%>&pic=<%-config.url+config.logo%>&summary=<%=config.summary%>"
+        class="fa fa-weibo" aria-hidden="true" target="_blank"></a>
+      <% } %>
+      <% if (theme.social.douban) { %>
+        <a href="<%-theme.social.douban%>url=<%-config.url%>&title=<%-config.title%>&pic=<%-config.url+config.logo%>&summary=<%=config.summary%>" class="fa fa-book" aria-hidden="true" target="_blank"></a>
+      <% } %>
+      <% if (theme.social.tieba) { %>
+        <a href="<%-theme.social.tieba%>url=<%-config.url%>&title=<%-config.title%>&pic=<%-config.url+config.logo%>&summary=<%=config.summary%>" style="position:relative" aria-hidden="true" target="_blank">
+          <span style="color:white;position:absolute;font-size:.85em;font-weight:bold;margin-top:.08em">贴</span>
+          <span class="fa fa-square"></span>
+        </a>
+      <% } %>
+      <% if (theme.social.qq) { %>
+        <a href="<%-theme.social.qq%>url=<%-config.url%>&title=<%-config.title%>&pic=<%-config.url+config.logo%>&desc=<%=config.description%>&summary=<%=config.summary%>" class="fa fa-qq" aria-hidden="true" target="_blank"></a>
+      <% } %>
+    </span>
+  </span>
+</div>

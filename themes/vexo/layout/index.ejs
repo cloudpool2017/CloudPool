@@ -1,0 +1,10 @@
+<main class="app-body">
+  <% page.posts.each(function(post) { %>
+    <%- partial('_pages/index', { post: post, index: true }) %>
+  <% }); %>
+
+  <% if (page.total > 1){ %>
+    <%- partial('_partial/pager') %>
+  <% } %>
+</main>
+

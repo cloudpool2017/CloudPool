@@ -1,0 +1,25 @@
+<div class="post-share">
+  <% if (theme.social) { %>
+    <% if (theme.social.email) { %>
+      <a href="mailto:<%-theme.social.email%>" class="fa fa-envelope"></a>
+    <% } %>
+    <% if (theme.social.qzone) { %>
+      <a href="<%-theme.social.qzone%>url=<%-page.permalink%>&title=<%-page.title%>&pics=<%-config.url+config.logo%>&summary=<%=page.main%>" class="fa" style="position:relative" aria-hidden="true" target="_blank">
+        <span style="color:white;position:absolute;align:centre;font-size:.95em;font-weight:bold">ｚ</span>  
+        <span class="fa-star"></span>
+      </a>
+    <% } %>
+    <% if (theme.social.sina) { %>
+      <a href="<%-theme.social.sina%>url=<%-page.permalink%>&title=<%-page.title%>&pic=<%-config.url+config.logo%>&summary=<%=page.main%>" class="fa fa-weibo" aria-hidden="true" target="_blank"></a>
+    <% } %>
+    <% if (theme.social.douban) { %>
+        <a href="<%-theme.social.douban%>url=<%-page.permalink%>&title=<%-page.title%>&pic=<%-config.url+config.logo%>&summary=<%=page.main%>" class="fa fa-book" aria-hidden="true" target="_blank"></a>
+    <% } %>
+    <% if (theme.social.tieba) { %>
+      <a href="<%-theme.social.tieba%>url=<%-page.permalink%>&title=<%-page.title%>&pic=<%-config.url+config.logo%>&summary=<%=page.main%>" class="fa" style="position:relative" aria-hidden="true" target="_blank">
+        <span style="color:white;position:absolute;align:centre;font-size:.9em;font-weight:bold;margin-top:.08em">贴</span>
+        <span class="fa-square"></span>
+      </a>
+    <% } %>
+  <% } %>
+</div>
