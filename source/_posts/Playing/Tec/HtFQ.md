@@ -8,22 +8,50 @@ categories: 浊技术
 main: 小孩子千万不要学
 sub: 1
 ---
-<span class="heimu" title="你知道的太多了">某人要我写一个梯<img class="small-img" src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png" alt="[滑稽]">子教程，好吧，那我就写一个
-下面是我以前写的：*自用xx<img class="small-img" src="http://tb2.bdstatic.com/tb/editor/images/face/i_f16.png?t=20140803" alt="[阴险]">-net，用的好像是Google大大的服务器，应该安全吧，ping比较高，不过上个网看个视频什么的够了，有流量限制，一个Google账户最多申请十二个AppID每个1G/日，一天也用不完那么多流量吧
-Github主页（复制到地址栏里面打开）：https://github.com/XX<img class="small-img" src="http://tb2.bdstatic.com/tb/editor/images/face/i_f33.png?t=20140803" alt="[阴险]">-net/XX<img class="small-img" src="http://tb2.bdstatic.com/tb/editor/images/face/i_f33.png?t=20140803" alt="[阴险]">-Net
-自己看新手指南毕竟太长了感觉并不是那么容易用的但是只要设置好一次以后就都OK了*
-现在写详细的：[推荐下载稳定版，Github](https://github.com/XX-net/XX-Net/blob/master/code/default/download.md) or
-度娘网盘链接: [https://pan.baidu.com/s/1MIlNwiSK8V3V4QJKCvFDvw](https://pan.baidu.com/s/1MIlNwiSK8V3V4QJKCvFDvw) 密码: y65n
-以及[配置IPv6脚本](http://beiking.000webhostapp.com/_down/IPv6.zip)（度娘网盘链接里面已整合，文件夹解压到XX<img class="small-img" src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png" alt="[滑稽]"> -net根目录）
-那么第一步，解压文件
-第二步，打开XX<img class="small-img" src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png" alt="[滑稽]">-Net，start.bat和start.vbs都行
-第三步，打开那个脚本，先后执行(2),1,5
-第四步，等它IPv6 IP扫描，可能要10分钟
-可能出现的问题：IPv6 状态 Fail，试试再来一次第三步，选择6试试看，还有问题我也不知道怎么办
-推荐：
-1.[进阶-AppID申请](https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids)，然后部署服务端(记得要用ID部署，不要用名称)，之后把部署成功AppID的在配置中保存
-2.推荐一下浏览器，自用Firefox火狐+[SwitchyOmega](https://addons.mozilla.org/zh-CN/firefox/addon/switchyomega/)
-导入配置文件：SwitchyOmega-导入/导出-从备份文件恢复-XX-Net\SwitchyOmega\OmegaOptions.bak
-建议用Smart-Router模式
-X-<img class="small-img" src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png" alt="[滑稽]">Tunnel现在好像不好用，看看以后</span>
-以及所有东西做完以后建议把DNS服务器改一改，我也说不清为什么。自用[DnsJumper](DnsJumper.7z)，建议要科 学 上 网的话选择Google Public DNS，记得点左边的 应用DNS
+    写在前面的话：这个是一个很复杂的教程，不过这种方法免费，而且应该安全
+    缺点：只支持Windows电脑与Android手机
+---
+### 第一步：开启IPv6
+##### 方法1：开启原生IPv6（长期使用推荐）
+    *北上广深可用，其他大城市可用性未知
+[方法](https://github.com/XX-net/XX-Net/wiki/如何获取原生IPv6)
+
+##### 方法2：使用6in4隧道（长期使用推荐）（电信、联通宽带可用）
+1.申请公网IP
+电信网络打10000号说明理由即可   理由：家中装监控/开发测试
+移动网络打专业技术服务号（百度）申请公网ip  理由同上
+
+2.设置6in4隧道
+    说明：此方法建议用在路由器上，路由器需刷固件(Merlin/Padavan/Openwrt/...) 至于哪些路由器支持刷机请自行查找 但好消息是贵一点且流行的路由器一般都有第三方固件
+
+a.打开 [Tunnel Broker](https://tunnelbroker.net/)，注册账号（实际上具体信息可以随便填）
+b.Create New Tunnel, 填写公网ip地址(可百度'ip'查看);服务器事实上建议选美国的，延迟低，原因不明。自用纽约的
+c.对应路由器设置填写<sup>[1]</sup>
+d.（若路由器重启）回Tunnel Details，重填IP地址（如有变化）[未重启则可以不管]
+
+[1]: 路由器设置中必填项：
+	服务器ipv4地址/6in4远程端点/WAN IPv4地址----Server IPv4 Address
+	服务器ipv6地址/IPv6 外网默认网关/WAN IPv6默认网关----Server IPv6 Address    *除尾端'/64'
+	客户端ipv6地址/IPv6 外网地址/WAN IPv6地址----Client IPv6 Address    *除尾端'/64'
+    内网IPv6前缀/IPv6 内网地址/LAN IPv6地址----Routed /48:    *需首先点击Asign    **除尾端'/48'
+
+    其他说明：1.IP地址尾部的/**为地址长度规定，路由器设置填写时若需要填写前缀长度则填写对应数字
+             2.IPv6 DNS可填写：2001:470:20::2   2001:4860:4860::8888    2001:4860:4860::8844
+             3.若有MTU、TTL项保持默认或填写1480、255
+以上完成可打开[Test-IPv6](https://test-ipv6.com)测试，绿色代表~~原谅~~通过
+
+##### 方法3：使用teredo等（实测并不稳定）
+[教程](https://github.com/XX-net/XX-Net/wiki/如何开启IPv6)
+[简便工具](https://github.com/XX-net/XX-Net/issues/10282)
+
+---
+### 第二步：程序设置
+##### 电脑：XX-Net
+Github：https://github.com/XX-net/XX-Net
+[下载](https://github.com/XX-net/XX-Net/blob/master/code/default/download.md) 
+解压文件，打开start.bat或start.vbs
+    推荐浏览器中安装SwitchyOmega，火狐/谷歌扩展搜索或直接导入同名文件夹中的.xpi/.crx文件，并导入配置文件（主程序同名文件夹下.bak文件） 
+##### 手机：[Xndroid](https://github.com/XndroidDev/Xndroid/releases)（推荐root后使用）
+[教程](https://github.com/XX-net/XX-Net/wiki/安卓版)
+
+其他：[AppID申请](https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids)，然后部署服务端(记得要用ID部署，不要用名称)，之后把部署成功AppID的在配置中保存
