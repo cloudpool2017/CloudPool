@@ -61,6 +61,6 @@ date: 2099-01-01
     19.5 续费zhuochi.org 一年 -$10.70
 ---
 
-### 其他阅读
-    [为什么我们要做浊池](/About/Why_we_make_it/)
-    [为什么我们喜欢一个不存在的网站](/About/Why_we_love_Google/)
+##### 其他阅读
+[为什么我们要做浊池](/About/Why_we_make_it/)
+[为什么我们喜欢一个不存在的网站](/About/Why_we_love_Google/)
