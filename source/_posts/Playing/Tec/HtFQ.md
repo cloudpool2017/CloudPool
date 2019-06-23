@@ -55,3 +55,9 @@ Github：https://github.com/XX-net/XX-Net
 [教程](https://github.com/XX-net/XX-Net/wiki/安卓版)
 
 其他：[AppID申请](https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids)，然后部署服务端(记得要用ID部署，不要用名称)，之后把部署成功AppID的在配置中保存
+
+### 若IPv6隧道断开
+尝试：
+1.重新连接WIFI（不一定起效）
+2.重启路由器，应该会更换IP地址
+  之后用新IP重新设置6in4隧道（重新填写Tunnel Broker设置中的IP地址即可）

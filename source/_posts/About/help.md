@@ -59,3 +59,8 @@ date: 2099-01-01
     18.11 在Porkbun购买邮箱服务 cloudpool@zhuochi.org 一年 -￥166.87
     19.5 购买域名cloudpool.us 一年 -$2.48
     19.5 续费zhuochi.org 一年 -$10.70
+---
+
+### 其他阅读
+    [为什么我们要做浊池](/About/Why_we_make_it/)
+    [为什么我们喜欢一个不存在的网站](/About/Why_we_love_Google/)
