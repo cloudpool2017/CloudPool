@@ -1,5 +1,5 @@
 ---
-title: 软件推荐v2.0
+title: 软件推荐v2.1
 writer: m1
 date: 2019-08-10
 type: play
