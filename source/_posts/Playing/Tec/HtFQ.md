@@ -1,5 +1,5 @@
 ---
-title: 【zuosi】自用梯子教程
+title: 自用梯子教程
 writer: m1
 date: 2019-06-22
 type: play
@@ -9,20 +9,25 @@ main: 小孩子千万不要学
 sub: 1
 ---
     写在前面的话：这个是一个很复杂的教程，不过这种方法免费，而且应该安全
-    缺点：只支持Windows电脑与Android手机
+    缺点：只支持Windows电脑
 ---
 ### 第一步：开启IPv6
-##### 方法1：开启原生IPv6（长期使用推荐）
+##### 方法1：开启原生IPv6
     *北上广深可用，其他大城市可用性未知
 [方法](https://github.com/XX-net/XX-Net/wiki/如何获取原生IPv6)
 
-##### 方法2：使用6in4隧道（长期使用推荐）（电信、联通宽带可用）
-1.申请公网IP
+##### 方法2：使用6in4隧道（电信、联通宽带可用）
+*（需要特殊高级路由器，价格一般在200以上）
+1.查看是否有公网IP地址
+    说明：据说我国99%的网络没有公网IP。如果已有公网IP地址，则可以跳过这一步
+[查看方法](https://jingyan.baidu.com/article/0964eca240949a8285f53697.html)
+
+申请公网IP地址方法：
 电信网络打10000号说明理由即可   理由：家中装监控/开发测试
 移动网络打专业技术服务号（百度）申请公网ip  理由同上
 
 2.设置6in4隧道
-    说明：此方法建议用在路由器上，路由器需刷固件(Merlin/Padavan/Openwrt/...) 至于哪些路由器支持刷机请自行查找 但好消息是贵一点且流行的路由器一般都有第三方固件
+    说明：此方法建议用在路由器上，路由器需刷固件(Merlin/Padavan/Openwrt) 至于哪些路由器支持刷机请自行查找，或者某宝搜索：梅林 路由器
 
 a.打开 [Tunnel Broker](https://tunnelbroker.net/)，注册账号（实际上具体信息可以随便填）
 b.Create New Tunnel, 填写公网ip地址(可百度'ip'查看);服务器事实上建议选美国的，延迟低，原因不明。自用纽约的
@@ -40,7 +45,7 @@ d.（若路由器重启）回Tunnel Details，重填IP地址（如有变化）[�
              3.若有MTU、TTL项保持默认或填写1480、255
 以上完成可打开[Test-IPv6](https://test-ipv6.com)测试，绿色代表~~原谅~~通过
 
-##### 方法3：使用teredo等（实测并不稳定）
+##### 方法3：使用teredo等（实测可能不稳定）
 [教程](https://github.com/XX-net/XX-Net/wiki/如何开启IPv6)
 [简便工具](https://github.com/XX-net/XX-Net/issues/10282)
 
@@ -51,8 +56,6 @@ Github：https://github.com/XX-net/XX-Net
 [下载](https://github.com/XX-net/XX-Net/blob/master/code/default/download.md) 
 解压文件，打开start.bat或start.vbs
     推荐浏览器中安装SwitchyOmega，火狐/谷歌扩展搜索或直接导入同名文件夹中的.xpi/.crx文件，并导入配置文件（主程序同名文件夹下.bak文件） 
-##### 手机：[Xndroid](https://github.com/XndroidDev/Xndroid/releases)（推荐root后使用）
-[教程](https://github.com/XX-net/XX-Net/wiki/安卓版)
 
 其他：[AppID申请](https://github.com/XX-net/XX-Net/wiki/how-to-create-my-appids)，然后部署服务端(记得要用ID部署，不要用名称)，之后把部署成功AppID的在配置中保存
 
