@@ -27,6 +27,8 @@ main: 路由器实现文件服务器
 
 2.1 左侧 Add a new domain - 输入域名
 2.2 New A - 打开Enable entry ... ，IPv4 Address = 路由器IP地址 ，其他不填
+2.3 点击A Record右侧，DDNS一栏下符号 -- Generate a key -- 复制粘贴至tunnelbroker.net - [tunnel] - HE DDNS Settings: Hostname = Domain; API Key = Key from he.net
+
 
 3. 路由器DDNS设置（外部网络--DDNS）
 
