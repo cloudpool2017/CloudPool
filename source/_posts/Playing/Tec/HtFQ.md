@@ -12,40 +12,49 @@ sub: 1
     缺点：只支持Windows电脑
 ---
 ### 第一步：开启IPv6
-##### 方法1：开启原生IPv6
-    *北上广深可用，其他大城市可用性未知
-[方法](https://github.com/XX-net/XX-Net/wiki/如何获取原生IPv6)
+##### 方法1：使用6in4隧道（电信宽带可用）
+    *（需要特殊梅林固件路由器，可某宝搜索“梅林 路由器”）
+1.申请公网IP地址：
+电信网络打10000号转人工保修查障服务
 
-##### 方法2：使用6in4隧道（电信、联通宽带可用）
-*（需要特殊高级路由器，价格一般在200以上）
-1.查看是否有公网IP地址
-    说明：据说我国99%的网络没有公网IP。如果已有公网IP地址，则可以跳过这一步
-[查看方法](https://jingyan.baidu.com/article/0964eca240949a8285f53697.html)
+“我需要公网IP”
+理由：家中装监控/技术测试
 
-申请公网IP地址方法：
-电信网络打10000号说明理由即可   理由：家中装监控/开发测试
-移动网络打专业技术服务号（百度）申请公网ip  理由同上
+若路由器设置页面显示WAN IP与你百度'IP'显示的结果一样，则已成功
 
 2.设置6in4隧道
-    说明：此方法建议用在路由器上，路由器需刷固件(Merlin/Padavan/Openwrt) 至于哪些路由器支持刷机请自行查找，或者某宝搜索：梅林 路由器
 
 a.打开 [Tunnel Broker](https://tunnelbroker.net/)，注册账号（实际上具体信息可以随便填）
-b.Create New Tunnel, 填写公网ip地址(可百度'ip'查看);服务器事实上建议选美国的，延迟低，原因不明。自用纽约的
+b.Create New Tunnel, 填写公网ip地址(可百度'ip'查看)--Create
 c.对应路由器设置填写<sup>[1]</sup>
 d.（若路由器重启）回Tunnel Details，重填IP地址（如有变化）[未重启则可以不管]
 
 [1]: 路由器设置中必填项：
 	服务器ipv4地址/6in4远程端点/WAN IPv4地址----Server IPv4 Address
 	服务器ipv6地址/IPv6 外网默认网关/WAN IPv6默认网关----Server IPv6 Address    *除尾端'/64'
+    IPv6 前缀长度: 64
 	客户端ipv6地址/IPv6 外网地址/WAN IPv6地址----Client IPv6 Address    *除尾端'/64'
-    内网IPv6前缀/IPv6 内网地址/LAN IPv6地址----Routed /48:    *需首先点击Asign    **除尾端'/48'
+    内网前缀长度: 64
+    内网IPv6前缀/IPv6 内网地址/LAN IPv6地址----Routed /64:    *除尾端'/64'
+    IPv6 DNS填写: 2001:470:20::2   2001:4860:4860::8888    2001:4860:4860::8844
+    其他说明：1.IP地址尾部的'/64'为地址长度规定
+             2.若有MTU、TTL项保持默认或填写1480、255
 
-    其他说明：1.IP地址尾部的/**为地址长度规定，路由器设置填写时若需要填写前缀长度则填写对应数字
-             2.IPv6 DNS可填写：2001:470:20::2   2001:4860:4860::8888    2001:4860:4860::8844
-             3.若有MTU、TTL项保持默认或填写1480、255
-以上完成可打开[Test-IPv6](https://test-ipv6.com)测试，绿色代表~~原谅~~通过
+以上完成可打开[Test-IPv6](https://test-ipv6.com)测试，绿色代表通过
 
-##### 方法3：使用teredo等（实测可能不稳定）
+###### 进阶：自动更新IP地址
+    原因：重启路由器后，IP地址很有可能会有变化
+
+**外部网络设置 - DDNS**
+
+服务器--www.tunnelbroker.net
+主机名称--Tunnel ID
+用户名称--Main Page-User ID
+密码或DDNS密钥--IPv6 Tunnel-Advanced-Update Key
+
+设置完成后，即可自动更新IP地址
+
+##### 方法2：使用teredo等（实测可能不稳定）
 [教程](https://github.com/XX-net/XX-Net/wiki/如何开启IPv6)
 [简便工具](https://github.com/XX-net/XX-Net/issues/10282)
 
@@ -61,6 +70,5 @@ Github：https://github.com/XX-net/XX-Net
 
 ### 若IPv6隧道断开
 尝试：
-1.重新连接WIFI（不一定起效）
-2.重启路由器，应该会更换IP地址
-  之后用新IP重新设置6in4隧道（重新填写Tunnel Broker设置中的IP地址即可）
+重新连接WIFI / 重启路由器，应该会更换IP地址
+
