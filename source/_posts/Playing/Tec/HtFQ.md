@@ -1,7 +1,7 @@
 ---
 title: 自用梯子教程
 writer: m1
-date: 2019-06-22
+date: 2019-09-30
 type: play
 tags: 技术
 categories: 浊技术
@@ -9,7 +9,6 @@ main: 小孩子千万不要学
 sub: 1
 ---
     写在前面的话：这个是一个很复杂的教程，不过这种方法免费，而且应该安全
-    缺点：只支持Windows电脑
 ---
 ### 第一步：开启IPv6
 ##### 方法1：使用6in4隧道（电信宽带可用）
@@ -70,5 +69,5 @@ Github：https://github.com/XX-net/XX-Net
 
 ### 若IPv6隧道断开
 尝试：
-重新连接WIFI / 重启路由器，应该会更换IP地址
+重新连接WIFI / 重启路由器
 
