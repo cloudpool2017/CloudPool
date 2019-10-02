@@ -41,8 +41,8 @@ mathjax:
 # Comment
 comment:
   valine:
-    appId: FFILiRjt6XzkMwRRA630lhlz-gzGzoHsz
-    appKey: eDpEqPczDrnftRF0pt1KQUy5
-    placeholder: 说点什么8
+    appId: M2JD6yGQhefhH2O0aSjFfclc-MdYXbMMI
+    appKey: arEPHdbMnKwMjQgiWsLgw34N
+    placeholder: 说点什么吧
     pageSize: 8
     guest_info: nick,mail,link
