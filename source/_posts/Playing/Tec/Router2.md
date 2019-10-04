@@ -29,15 +29,8 @@ main: 路由器实现文件服务器
 2.2 New A - 打开Enable entry ... ，IPv4 Address = 路由器IP地址 ，其他不填
 2.3 点击A Record右侧，DDNS一栏下符号 -- Generate a key -- 复制粘贴至tunnelbroker.net - [tunnel] - HE DDNS Settings: Hostname = Domain; API Key = Key from he.net
 
-3. 路由器DDNS设置（外部网络--DDNS）
+3. 路由器DDNS设置
 
-服务器--www.tunnelbroker.net
-主机名称--Tunnel ID
-用户名称--Main Page-User ID
-密码或DDNS密钥--IPv6 Tunnel-Advanced-Update Key
-
-设置完成后，即可自动更新IP地址
-
-并打开 防火墙 - 一般设置 - 响应ping要求
+同[上一篇文章](/Router1)
 
 4. USB相关应用--服务器中心--FTP设置（账号、共享文件夹、读写权限）

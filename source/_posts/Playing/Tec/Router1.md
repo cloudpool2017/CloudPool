@@ -23,11 +23,12 @@ sub: 1
 若路由器设置页面显示WAN IP与你百度'IP'显示的结果一样，则已成功
 
 2.设置6in4隧道
-    
-a.打开 [Tunnel Broker](https://tunnelbroker.net/)，注册账号（实际上具体信息可以随便填）
-b.Create New Tunnel, 填写公网ip地址(可百度'ip'查看)--Create
-c.对应路由器设置填写<sup>1</sup>
-d.IP地址如有变化，回到Tunnel Details，重填IP地址
+
+a.打开 [路由器设置页面](http://192.168.50.1)，打开 防火墙 - 一般设置 - 响应ping要求
+b.打开 [Tunnel Broker](https://tunnelbroker.net/)，注册账号（实际上具体信息可以随便填）
+c.Create New Tunnel, 填写公网ip地址(可百度'ip'查看)--Create
+d.对应路由器设置填写<sup>1</sup>
+e.IP地址如有变化，回到Tunnel Details，重填IP地址
 
     1: 路由器设置中必填项：
 
@@ -57,6 +58,8 @@ d.IP地址如有变化，回到Tunnel Details，重填IP地址
     密码或DDNS密钥 -- [IPv6 Tunnel] - Advanced - Update Key
 
 设置完成后，即可自动更新IP地址
+
+问题：实测HE.net自动更新IP地址后仍需重新启动一次隧道才可正常连接，原因不明
 
 ##### （方法2：使用teredo，实测有时不稳定）
 [教程](https://github.com/XX-net/XX-Net/wiki/如何开启IPv6)
