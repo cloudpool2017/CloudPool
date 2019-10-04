@@ -59,7 +59,7 @@ e.IP地址如有变化，回到Tunnel Details，重填IP地址
 
 设置完成后，即可自动更新IP地址
 
-问题：实测HE.net自动更新IP地址后仍需重新启动一次隧道才可正常连接，原因不明
+问题：实测HE.net自动更新IP地址后仍需重新更换刷新至少一次隧道IP地址才可正常连接，原因不明
 
 ##### （方法2：使用teredo，实测有时不稳定）
 [教程](https://github.com/XX-net/XX-Net/wiki/如何开启IPv6)
