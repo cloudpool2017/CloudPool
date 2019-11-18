@@ -8,6 +8,7 @@ tags:
     - 平板电脑
 categories: 浊技术
 main: Lenovo Flex 14 平板电脑，来自LinusTechTips
+sub: 1
 ---
 
 电脑硬件评测YouTube频道LinusTechTips新发布推荐：美帝良心想新平板。看了评测和参数感觉挺不错，想买，没钱。
