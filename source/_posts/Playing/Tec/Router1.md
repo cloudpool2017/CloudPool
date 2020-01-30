@@ -1,7 +1,7 @@
 ---
 title: 自用梯子教程1
 writer: m1
-date: 2019-10-2
+date: 2020-1-30
 tags: 技术
 categories: 浊技术
 main: 小孩子千万不要学
@@ -26,11 +26,16 @@ sub: 1
 
 a.打开 [路由器设置页面](http://192.168.50.1)，打开 防火墙 - 一般设置 - 响应ping要求
 b.打开 [Tunnel Broker](https://tunnelbroker.net/)，注册账号（实际上具体信息可以随便填）
-c.Create New Tunnel, 填写公网ip地址(可百度'ip'查看)--Create
-d.对应路由器设置填写<sup>1</sup>
+c.Create Regular Tunnel<sup>1</sup>
+d.对应路由器设置填写<sup>2</sup>
 e.IP地址如有变化，回到Tunnel Details，重填IP地址
 
-    1: 路由器设置中必填项：
+1:  
+IPv4 Endpoint (Your side): = You are viewing from:
+服务器选择:  [工具](PingInfoView.zip)
+打开exe，确定，根据 平均一次Ping 排序在网页中选择 快且稳定 的服务器，Create Tunnel
+
+2:  路由器设置中必填项：
 
 	服务器ipv4地址/6in4远程端点/WAN IPv4地址----Server IPv4 Address
 	服务器ipv6地址/IPv6 外网默认网关/WAN IPv6默认网关----Server IPv6 Address    *除尾端'/64'
@@ -38,12 +43,12 @@ e.IP地址如有变化，回到Tunnel Details，重填IP地址
 	客户端ipv6地址/IPv6 外网地址/WAN IPv6地址----Client IPv6 Address    *除尾端'/64'
     内网前缀长度: 64
     内网IPv6前缀/IPv6 内网地址/LAN IPv6地址----Routed /64:    *除尾端'/64'
-    IPv6 DNS填写: 2001:470:20::2   2001:4860:4860::8888    2001:4860:4860::8844
+    IPv6 DNS填写: 2001:4860:4860::8888    2001:4860:4860::8844    2001:470:20::2
     其他说明：1.IP地址尾部的'/64'为地址长度规定
-             2.若有MTU、TTL项保持默认或填写0、0
+             2.若有MTU、TTL项保持默认或填写1480、255
 
 
-以上完成后可通过[Test-IPv6](https://test-ipv6.com)网站测试
+以上完成后可通过[Test-IPv6](https://test-ipv6.com)网站测试。如果失败，请尝试重启路由器直至更换ip地址。
 
 每一次路由器重启后，IP地址很有可能会变化。请进入6in4隧道设置页面，手动更改IP地址；
 或者，也可以使用DDNS服务自动更新IP地址
