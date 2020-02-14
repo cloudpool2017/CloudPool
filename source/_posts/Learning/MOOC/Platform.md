@@ -27,6 +27,7 @@ main: 在家我们能学什么
 [计算机组成](http://www.chinesemooc.org/mooc/4392) 
 [计算机网络原理](http://www.chinesemooc.org/mooc/4880)
 [20世纪西方音乐](http://www.chinesemooc.org/mooc/4386)
+[英语演讲与演示](http://www.chinesemooc.org/mooc/4757)
 
 ### [学堂在线](https://next.xuetangx.com)
 主要合作院校：  清华大学
@@ -34,9 +35,18 @@ main: 在家我们能学什么
 [心理学概论](https://next.xuetangx.com/course/THU07111000416/1516445)
 [数据结构（上）](https://next.xuetangx.com/course/THU08091000384/1516243)   [（下）](https://next.xuetangx.com/course/THU08091002048/1515966)
 [C++语言程序设计基础](https://next.xuetangx.com/course/THU08091000247/1515741)
+[电路原理](https://next.xuetangx.com/course/THU08061000294/1516684)
+[Java程序设计](https://next.xuetangx.com/course/THU08091000251/1510524)
 
 ### [好大学在线](https://www.cnmooc.org)
 主要合作院校：  上海交通大学    西安交通大学
+
+大学物理 - [力学](https://www.cnmooc.org/portal/course/67/15070.mooc)    [热学](https://www.cnmooc.org/portal/course/3236/15071.mooc)    [电磁学](https://www.cnmooc.org/portal/course/67/15070.mooc)
+[微生物学（双语）](https://www.cnmooc.org/portal/course/1706/14738.mooc)
+[电子技术实验](https://www.cnmooc.org/portal/course/4923/14822.mooc)
+[粒子世界探秘](https://www.cnmooc.org/portal/course/9/14739.mooc)
+[广告的力量](https://www.cnmooc.org/portal/course/5587/14655.mooc)
+[电路理论（上）](https://www.cnmooc.org/portal/course/72/14823.mooc)    [（下）](https://www.cnmooc.org/portal/course/72/14823.mooc)
 
 ### [北外网课](https://www.beiwaiclass.com)
 主办院校：  北京外国语大学
