@@ -33,6 +33,7 @@ main: 在家我们能学什么
 ### [学堂在线](https://next.xuetangx.com)   （清华大学等）
 
 ##### 推荐课程
+
 [组合数学](https://next.xuetangx.com/course/THU08091000450/1511794)
 [有机化学](https://next.xuetangx.com/course/THU07031000429/1516695)
 
@@ -50,7 +51,8 @@ main: 在家我们能学什么
 ##### 推荐课程  
 
 **[多元微积分](https://www.cnmooc.org/portal/course/925/14804.mooc)**
-* 说明：这里的多元微积分实际上只是高数·下的内容，全部课程建议移步[爱课程-高等数学](http://www.icourses.cn/web/sword/portal/shareDetails?cId=7182
+* 说明：这里的多元微积分实际上只是高数·下的内容，全部课程建议移步 [爱课程-高等数学](http://www.icourses.cn/web/sword/portal/shareDetails?cId=7182)
+
 [大学物理 - 力学](https://www.cnmooc.org/portal/course/67/15070.mooc)    [热学](https://www.cnmooc.org/portal/course/3236/15071.mooc)    [电磁学](https://www.cnmooc.org/portal/course/67/15070.mooc)
 [电路理论（上）](https://www.cnmooc.org/portal/course/72/14823.mooc)    [（下）](https://www.cnmooc.org/portal/course/72/14823.mooc)
 [微生物学（双语）](https://www.cnmooc.org/portal/course/1706/14738.mooc)
