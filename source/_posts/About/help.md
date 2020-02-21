@@ -1,16 +1,15 @@
-title: 【手动置顶】(滑稽) 浊池需要帮助
+title: 【手动置顶】浊池是什么
 categories: 浊池
 main: 我们都是年轻人
 date: 2099-01-01
 ---
-{% aplayer "What Would I Change It To" "Avicii" "What_Would_I_Change_It_To.m4a" "What_Would_I_Change_It_To.jpg" "lrc:What_Would_I_Change_It_To.lrc" %}
+{% aplayer "What Would I Change It To" "Avicii" "What_Would_I_Change_It_To.m4a" "What_Would_I_Change_It_To.jpg" "autoplay" "lrc:What_Would_I_Change_It_To.lrc" %}
 
 ---
-　　CloudPool浊池是由一群年轻人管理的博客，然而实际上我们的时间都不多，高三狗嘛，大家都懂是个什么状态。
-　　我指的帮助不是什么赞助打赏什么的，不敢有那么高的要求（其实是因为没有自己的支付宝），只是感谢来到这个网站的你，如果你有好的文章/摄影作品/其它作品/随便乱七八糟的不管什么鬼东西，你都可以联系我们（站长QQ1783074382 邮箱lyj361@163.com），我们需要更多的稿件来源来使网站变得更好，浊池的成员里也将会有你的名字。
-　　浊池的初衷并不是要做一个高大上的博客，而是希望人们玩农药玩累了看段子看睡了无聊到搞Gay了的时候能看见有一些人在做一些让人看了暂时舒服一下的东西，说白了你可以把它理解为一个没那么吵的QQ空间。
-　　其实没有那么抒情如果你也想开博客或者你需要修电脑或者你需要男朋友或者你只是想找人出去搞事情也都可以联系站长我，再次谢谢你的关注(\*^\_^\*)
-　　~~加了个BGM有逼格多了~~
+　　CloudPool浊池是由~~一群~~年轻人管理的博客，现在的内容很杂。
+　　现在的我其实没什么好说的，浊池现在很孤单。我还没有让它死掉。
+
+顺便提一下，[R.I.P.,Avicii](http://avicii.com/)
 
 ---
     Done:
@@ -18,7 +17,7 @@ date: 2099-01-01
     16.12 “浊池”名称拟定
     17.1.6 确定英文名：CloudPool
     17.1.7 Lofter博客建立
-    17.1-2 图标设计+子博客建立
+    17.2 图标设计+Lofter子博客建立
     17.4 自定义域名cloudpool.tk注册
     17.6 开始了解Hexo+Github建立静态博客
     17.7-8 摸索中成功建立站点，网络原因导致失败两次
@@ -49,7 +48,9 @@ date: 2099-01-01
     18.10.11 多次尝试(GitLab,GitHub,...)后感觉到自己的垃圾...还是用VSTS+Coding8
     18.11.24 多日研究后终于找到满意的解决办法：GitLab自动生成部署。并且立下目标：明年大学之前将浊池建成一个博客群
     18.12 开启Porkbun附赠的SSL证书服务，并实现全站https
-    19.6.22 浊池重新恢复主体
+    19.6.22 找回源文件
+    20.2.21 Valine 头像添加
+
 ---
     网站开支：
     18.6.7 购买域名 cloudpool2017.com 一年 -￥7.15
@@ -57,7 +58,6 @@ date: 2099-01-01
     18.8.21 购买域名 zhuochi.org 一年 -￥72.93
     18.11 续费域名 zhuochi.org 一年 -￥74.02
     18.11 在Porkbun购买邮箱服务 cloudpool@zhuochi.org 一年 -￥166.87
-    19.5 购买域名cloudpool.us 一年 -$2.48
     19.5 续费zhuochi.org 一年 -$10.70
 ---
 
