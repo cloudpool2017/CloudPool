@@ -19,8 +19,10 @@ main: 无聊的时候不如看电影
 *建议搜索豆瓣上的影片英文名，减小资源为二次分享的可能性*
 
 暂时可用的磁力搜索网站：
-[Btdad](http://www.btdad.info)  [Bthub](https://bthub.xyz)  [雨花阁](https://www.yhg17.xyz)     [SkrBT](https://skrbt17.icu)    [磁力狗](http://ciligou.top)    [超人搜索](https://www.crsososo.xyz)    [磁力天堂](https://www.clttr.xyz)
+[Btdad](http://www.btdad.info)  [雨花阁](https://www.yhg17.xyz)     [磁力狗](http://ciligou.top)
 ~~原来挺好用的[种子搜](https://www.dongxingdi.com)好像又暂停服务了~~
+
+    建议搜索时按人气/点击数排序，选择下载2G以上大小的电影
 
 以 **magnet:?xt=urn:btih:** 开头的链接即为磁力链接
 
