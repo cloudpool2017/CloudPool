@@ -12,6 +12,9 @@ date: 2099-01-01
 顺便提一下，[R.I.P.,Avicii](http://avicii.com/)
 
 ---
+[为什么我们要做浊池](https://zhuochi.org/About/Why_we_make_it/)
+
+---
     Done:
     16.12 开始有想法
     16.12 “浊池”名称拟定
@@ -20,7 +23,7 @@ date: 2099-01-01
     17.2 图标设计+Lofter子博客建立
     17.4 自定义域名cloudpool.tk注册
     17.6 开始了解Hexo+Github建立静态博客
-    17.7-8 摸索中成功建立站点，网络原因导致失败两次
+    17.7 摸索中成功建立站点
     17.8.11 改用Vexo主题，感谢@yanm1ng
     17.8.12-18 个性化博客，更改各项设置，迁移Lofter上的文章
     17.8.14 注册cloudpool.ml
@@ -60,7 +63,3 @@ date: 2099-01-01
     18.11 在Porkbun购买邮箱服务 cloudpool@zhuochi.org 一年 -￥166.87
     19.5 续费zhuochi.org 一年 -$10.70
 ---
-
-##### 其他阅读
-[为什么我们要做浊池](/About/Why_we_make_it/)
-[为什么我们喜欢一个不存在的网站](/About/Why_we_love_Google/)
