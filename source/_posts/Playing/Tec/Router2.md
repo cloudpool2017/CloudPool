@@ -1,17 +1,29 @@
 ---
 title: 路由器搞机探索2
 writer: m1
-date: 2019-09-30
+date: 2020-02-25
 tags: 技术
 categories: 浊技术
-main: 路由器实现文件服务器
+main: 主要用于梅林固件路由器
 ---
+### 自动更新IP地址
 
-    写在前面：
-    完成这个教程中的步骤后，可以实现远程访问路由器的存储
+**路由器设置页面 - 外部网络设置 - DDNS**
+
+    服务器 -- www.tunnelbroker.net
+    主机名称 -- Tunnel ID
+    用户名称 -- Account Info - Account Name
+    密码或DDNS密钥 -- [IPv6 Tunnel] - Advanced - Update Key
+
+设置完成后，即可自动更新IP地址
+
+问题：实测HE.net自动更新IP地址后仍需重新更换刷新至少一次隧道IP地址才可正常连接，原因不明
+
 ### 预备工作
-    同样，我们需要公网IP地址，最好有DDNS服务，详情见上篇教程
-    另外，还需要一个可用域名
+
+1. 公网IP地址
+2. DDNS服务，详情见上篇教程
+3. 一个可用域名
 
 ### 域名设置
 
