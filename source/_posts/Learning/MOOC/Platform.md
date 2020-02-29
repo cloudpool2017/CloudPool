@@ -21,18 +21,21 @@ main: 在家我们能学什么
 
 ##### 推荐课程
 
-**[计算机网络原理和因特网](http://www.chinesemooc.org/mooc/4880)**
-[操作系统原理](http://www.chinesemooc.org/mooc/4747)
-[数据结构与算法](http://www.chinesemooc.org/mooc/4417)
-**[计算机组成](http://www.chinesemooc.org/mooc/4392)**
-
 **[英语演讲与演示](http://www.chinesemooc.org/mooc/4757)** By 张红岩
 **[20世纪西方音乐](http://www.chinesemooc.org/mooc/4386)**
 [中国古代史](http://www.chinesemooc.org/mooc/4415)
 
+[计算机网络原理和因特网](http://www.chinesemooc.org/mooc/4880)**
+[操作系统原理](http://www.chinesemooc.org/mooc/4747)
+[数据结构与算法](http://www.chinesemooc.org/mooc/4417)
+[计算机组成](http://www.chinesemooc.org/mooc/4392)**
+
 ### [学堂在线](https://next.xuetangx.com)   （清华大学等）
 
 ##### 推荐课程
+
+**[心理学概论](https://next.xuetangx.com/course/THU07111000416/1516445)**
+**[大学物理1](https://next.xuetangx.com/course/THU07021000288/1516043)  [2](https://next.xuetangx.com/course/THU07021000289/1516555)**
 
 [组合数学](https://next.xuetangx.com/course/THU08091000450/1511794)
 [有机化学](https://next.xuetangx.com/course/THU07031000429/1516695)
@@ -44,7 +47,7 @@ main: 在家我们能学什么
 
 [电路原理](https://next.xuetangx.com/course/THU08061000294/1516684)
 [病理学](https://next.xuetangx.com/course/THU10101001598/1512011)
-**[心理学概论](https://next.xuetangx.com/course/THU07111000416/1516445)**
+
 
 ### [好大学在线](https://www.cnmooc.org)    （上海交通大学等）
 
