@@ -25,10 +25,10 @@ main: 在家我们能学什么
 **[20世纪西方音乐](http://www.chinesemooc.org/mooc/4386)**
 [中国古代史](http://www.chinesemooc.org/mooc/4415)
 
-[计算机网络原理和因特网](http://www.chinesemooc.org/mooc/4880)**
+[计算机网络原理和因特网](http://www.chinesemooc.org/mooc/4880)
 [操作系统原理](http://www.chinesemooc.org/mooc/4747)
 [数据结构与算法](http://www.chinesemooc.org/mooc/4417)
-[计算机组成](http://www.chinesemooc.org/mooc/4392)**
+[计算机组成](http://www.chinesemooc.org/mooc/4392)
 
 ### [学堂在线](https://next.xuetangx.com)   （清华大学等）
 
@@ -54,7 +54,7 @@ main: 在家我们能学什么
 ##### 推荐课程  
 
 **[多元微积分](https://www.cnmooc.org/portal/course/925/14804.mooc)**
-* 说明：这里的多元微积分实际上只是高数·下的内容，全部课程建议移步 [爱课程-高等数学](http://www.icourses.cn/web/sword/portal/shareDetails?cId=7182)
+* 说明：这里的多元微积分实际上只是高数·下的内容，全部课程可移步 [Acfun](https://www.acfun.cn/v/ac13019628)
 
 [大学物理 - 力学](https://www.cnmooc.org/portal/course/67/15070.mooc)    [热学](https://www.cnmooc.org/portal/course/3236/15071.mooc)    [电磁学](https://www.cnmooc.org/portal/course/67/15070.mooc)
 [电路理论（上）](https://www.cnmooc.org/portal/course/72/14823.mooc)    [（下）](https://www.cnmooc.org/portal/course/72/14823.mooc)
