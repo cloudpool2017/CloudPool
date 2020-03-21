@@ -43,7 +43,7 @@ IPv4 Endpoint (Your side): = You are viewing from:
 	客户端ipv6地址/IPv6 外网地址/WAN IPv6地址----Client IPv6 Address    *除尾端'/64'
     内网前缀长度: 64
     内网IPv6前缀/IPv6 内网地址/LAN IPv6地址----Routed /64:    *除尾端'/64'
-    IPv6 DNS填写: 2001:4860:4860::8888    2001:4860:4860::8844    2001:470:20::2
+    IPv6 DNS建议填写: 2606:4700:4700::1111    2001:4860:4860::8844    2001:470:20::2
     其他说明：1.IP地址尾部的'/64'为地址长度规定
              2.若有MTU、TTL项保持默认或填写1480、255
 
@@ -52,19 +52,6 @@ IPv4 Endpoint (Your side): = You are viewing from:
 
 每一次路由器重启后，IP地址很有可能会变化。请进入6in4隧道设置页面，手动更改IP地址；
 或者，也可以使用DDNS服务自动更新IP地址
-
-### 进阶：自动更新IP地址
-
-**路由器设置页面 - 外部网络设置 - DDNS**
-
-    服务器 -- www.tunnelbroker.net
-    主机名称 -- Tunnel ID
-    用户名称 -- Account Info - Account Name
-    密码或DDNS密钥 -- [IPv6 Tunnel] - Advanced - Update Key
-
-设置完成后，即可自动更新IP地址
-
-问题：实测HE.net自动更新IP地址后仍需重新更换刷新至少一次隧道IP地址才可正常连接，原因不明
 
 ##### （方法2：使用teredo，实测有时不稳定）
 [教程](https://github.com/XX-net/XX-Net/wiki/如何开启IPv6)

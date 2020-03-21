@@ -19,13 +19,15 @@ main: 主要用于梅林固件路由器
 
 问题：实测HE.net自动更新IP地址后仍需重新更换刷新至少一次隧道IP地址才可正常连接，原因不明
 
-### 预备工作
+### DDNS设置
+
+##### 预备工作
 
 1. 公网IP地址
 2. DDNS服务，详情见上篇教程
 3. 一个可用域名
 
-### 域名设置
+##### 域名设置
 
 1. 注册商处NameServer改为
 
@@ -41,8 +43,4 @@ main: 主要用于梅林固件路由器
 2.2 New A - 打开Enable entry ... ，IPv4 Address = 路由器IP地址 ，其他不填
 2.3 点击A Record右侧，DDNS一栏下符号 -- Generate a key -- 复制粘贴至tunnelbroker.net - [tunnel] - HE DDNS Settings: Hostname = Domain; API Key = Key from he.net
 
-3. 路由器DDNS设置
-
-同[上一篇文章](/Router1)
-
-4. USB相关应用--服务器中心--FTP设置（账号、共享文件夹、读写权限）
+3. USB相关应用--服务器中心--FTP设置（账号、共享文件夹、读写权限）
