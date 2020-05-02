@@ -1,3 +1,3 @@
 git add .
 git commit -m "auto"
-git push gl1
+git push gl1 master

@@ -18,26 +18,22 @@
     <section class="markdown-content" style="font-family:<%- page.font %>; text-indent:<%- page.indent %>">
       <%- page.content %>
     </section>
-    <!-- Tags START -->
+    <!-- Tags -->
     <% if (page.tags && page.tags.length) { %>
     <div class="tags">
       <span>Tags:</span>
       <%- partial('_partial/tag', { tags: page.tags }) %>
     </div>
     <% } %>
-    <!-- Tags END -->
-    <!-- Busuanzi Counting START -->
+    <!-- Busuanzi Counting -->
     <%- partial('_post/counting') %>
-    <!-- Busuanzi Counting END -->
+    <!-- SideBar Catalog -->
     <%- partial('_post/nav') %>
+    <!-- Comment -->
     <%- partial('_post/comment') %>
+    <!-- QR Code -->
     <%- partial('_post/share') %>
-    <!-- 二维码 START 
-    <div class="qrcode">
-      <canvas id="share-qrcode"></canvas>
-      <p class="notice">分享文章二维码</p>
-    </div>
-    二维码 END -->
+    <!-- advertisement -->
     <div class="advertisement">
       <p> 广告：快速学习Crash Course十分钟速成课 <a href="https://www.coolapk.com/apk/com.crashcourse.china.c17">安卓应用</a></p>
     </div>
