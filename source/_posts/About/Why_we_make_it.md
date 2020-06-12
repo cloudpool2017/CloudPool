@@ -1,7 +1,7 @@
 ---
 title: 为什么我们要做浊池
 date: 2017-01-10
-writer: m1
+author: m1
 categories: 浊池
 ---
 　　一句话，因为我们不喜欢，所以我们决定站出来BB。

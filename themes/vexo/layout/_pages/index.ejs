@@ -6,11 +6,11 @@
       </h2>
       <p class="article-date">
       <%- date(post.date, "LL") %>
-      <% if (typeof(post.writer) == "string" ) { %>
-        By <img class="small-icon" src="/images/<%- post.writer %>.png" alt=""> <%- config.member[post.writer] %>
-      <% } else if (typeof(post.writer) == "object") { %>  By 
-        <% for  (name in post.writer) { %>
-          <img class="small-icon" src="/images/<%- post.writer[name] %>.png" alt=""> <%- config.member[post.writer[name]] %>
+      <% if (typeof(post.author) == "string" ) { %>
+        By <img class="small-icon" src="/images/<%- post.author %>.png" alt=""> <%- config.member[post.author] %>
+      <% } else if (typeof(post.author) == "object") { %>  By 
+        <% for  (name in post.author) { %>
+          <img class="small-icon" src="/images/<%- post.author[name] %>.png" alt=""> <%- config.member[post.author[name]] %>
         <% } %>
       <% } %>
       </p>
@@ -20,8 +20,10 @@
       <div class="article-summary">
         <% if (post.main) { %>
           <%- post.main %>
+        <% } else if (post.excerpt) { %>
+          <%- post.excerpt %>
         <% } else { %>
-          <%- truncate((post.content), {length: 220, omission: '...' }) %>
+          <%- truncate((post.content), {length: 200, omission: '...' }) %>
         <% } %>
       </div>
       <a class="more" href="<%- url_for(post.path) %>" target="_blank"><%- theme.excerpt_link %></a>

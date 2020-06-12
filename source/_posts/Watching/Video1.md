@@ -1,6 +1,6 @@
 ---
 title: 忘了发出来的微电影（大概算吧）
-writer: [m1, m2]
+author: [m1, m2]
 date: 2018-06-08
 tags: 微电影01
 categories: 浊拍

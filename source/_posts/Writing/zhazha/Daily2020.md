@@ -1,7 +1,7 @@
 ---
 title: 每日几句2020
 date: 2020-06-04
-writer: m1
+author: m1
 tags:
     - BB
 categories:

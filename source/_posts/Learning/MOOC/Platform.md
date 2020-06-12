@@ -1,6 +1,6 @@
 ---
 title: MOOC平台推荐
-writer: m1
+author: m1
 date: 2020-05-11
 tags: 物理
 categories: 学习

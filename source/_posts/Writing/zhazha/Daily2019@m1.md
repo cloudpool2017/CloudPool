@@ -1,7 +1,7 @@
 ---
 title: 每日一句2019@StʌrunneR
 date: 2019-11-21
-writer: m1
+author: m1
 tags:
     - BB
 categories:

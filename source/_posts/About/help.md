@@ -1,3 +1,4 @@
+---
 title: 【手动置顶】浊池是什么
 categories: 浊池
 main: 我们都是年轻人
@@ -6,8 +7,7 @@ date: 2099-01-01
 {% aplayer "What Would I Change It To" "Avicii" "What_Would_I_Change_It_To.m4a" "What_Would_I_Change_It_To.jpg" "autoplay" "lrc:What_Would_I_Change_It_To.lrc" %}
 
 ---
-　　CloudPool浊池是由~~一群~~年轻人管理的博客，现在的内容很杂。
-　　现在的我其实没什么好说的，浊池现在很孤单。我还没有让它死掉。
+　　CloudPool浊池曾是由~~一群~~年轻人管理的博客，现在的内容很杂。
 
 顺便提一下，[R.I.P.,Avicii](http://avicii.com/)
 

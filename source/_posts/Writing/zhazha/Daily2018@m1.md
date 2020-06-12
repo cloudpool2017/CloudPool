@@ -1,7 +1,7 @@
 ---
 title: 每日一句2018
 date: 2019-01-04
-writer: m1
+author: m1
 tags:
     - BB
 categories:

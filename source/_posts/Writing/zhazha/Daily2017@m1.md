@@ -1,7 +1,8 @@
 ---
+
 title: 每日一句2017
 date: 2017-11-12
-writer: m1
+author: m1
 tags:
     - BB
 categories:

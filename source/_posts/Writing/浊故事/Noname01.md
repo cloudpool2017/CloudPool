@@ -1,7 +1,7 @@
 ---
 title: Noname01
 date: 2019-03-05
-writer: m10
+author: m10
 tags: 小说
 categories:
     - 浊故事
