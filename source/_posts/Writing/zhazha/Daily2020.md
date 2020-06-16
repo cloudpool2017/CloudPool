@@ -7,7 +7,6 @@ tags:
 categories:
     - 浊喳喳
 main: 2020
-sub: 1
 ---
 
 ### 6.4
@@ -34,3 +33,8 @@ sub: 1
 ### 6.12
 
 To Do: 把cloudpool.me改成自用网址导航
+
+### 6.15
+
+cloudpool.me成为浊池新域名
+原因：之前我曾经把这个网址装逼地告诉了一些亲友，后来我后悔了。zhuochi.org将不再更新，新网址为cloudpool.me

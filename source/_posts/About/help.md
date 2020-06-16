@@ -53,6 +53,7 @@ date: 2099-01-01
     18.12 开启Porkbun附赠的SSL证书服务，并实现全站https
     19.6.22 找回源文件
     20.2.21 Valine 头像添加
+    20.6.12 搬迁到cloudpoool.me
 
 ---
     网站开支：
@@ -62,4 +63,5 @@ date: 2099-01-01
     18.11 续费域名 zhuochi.org 一年 -￥74.02
     18.11 在Porkbun购买邮箱服务 cloudpool@zhuochi.org 一年 -￥166.87
     19.5 续费zhuochi.org 一年 -$10.70
+    20.5 续费cloudpoool.me 一年 -$
 ---
