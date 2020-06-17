@@ -1,5 +1,5 @@
 ---
-title: 【手动置顶】浊池是什么
+title: 【手动置顶】浊池需要帮助
 categories: 浊池
 main: 我们都是年轻人
 date: 2099-01-01
@@ -9,7 +9,7 @@ date: 2099-01-01
 ---
 　　CloudPool浊池曾是由~~一群~~年轻人管理的博客，现在的内容很杂。
 
-顺便提一下，[R.I.P.,Avicii](http://avicii.com/)
+[R.I.P, Avicii](http://avicii.com/)
 
 ---
 [为什么我们要做浊池](https://zhuochi.org/About/Why_we_make_it/)

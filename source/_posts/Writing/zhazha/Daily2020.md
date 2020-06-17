@@ -1,5 +1,5 @@
 ---
-title: 每日几句2020
+title: 偶尔几句2020
 date: 2020-06-04
 author: m1
 tags:
@@ -38,3 +38,11 @@ To Do: 把cloudpool.me改成自用网址导航
 
 cloudpool.me成为浊池新域名
 原因：之前我曾经把这个网址装逼地告诉了一些亲友，后来我后悔了。zhuochi.org将不再更新，新网址为cloudpool.me
+
+### 6.16
+
+完成的东西越多，才会意识到有越多的事情没有完成。
+
+### 6.17
+
+一滩烂泥。But talking is cheap.
