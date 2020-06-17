@@ -1,31 +1,31 @@
 ---
 title: Windows安装
 author: m1
-date: 2018-10-17
+date: 2020-06-17
 tags: [Windows,安装]
 categories: 系统
 ---
 
-# 系统
-
 **~~FBI~~ WARNING**
 *下面的方式重装系统会清空C盘的所有文件，要备份的请先做好备份*
+
 ***
 
 ## 能够正常运行的电脑上做的事情
 
-1. 首先下载系统镜像，推荐[MSDN我告诉你](https://msdn.itellyou.cn/)，这个是良心大佬搞的一个网站。
+1. 首先下载系统镜像，推荐[MSDN我告诉你](https://msdn.itellyou.cn/)，这个是良心大佬搞的一个网站。提供windows系统镜像文件(.iso)的对应磁力链接
 
-2. 选择操作系统--Windows 10,Version xxxx(建议选择发布时间最晚的下载)，复制以ed2k开头的链接放到迅雷、[eagleget](http://www.eagleget.com/cn/)、[PanDownload](http://pandownload.com/)等等下载工具里面去，下载或许很慢。![网站截图](01.png)
+2. 选择 操作系统 -- Windows 10, Version xxxx -- Windows 10 (consumer editions), version xxxx (x64) 
+下载链接: ed2k://|file|********
+下载工具：[eagleget](http://www.eagleget.com/cn/) 或 迅雷 或 百度云 + [速盘 - 极速版](http://www.supanx.com) 3元 = 3天内30G流量
+![网站截图](01.png)(建议选择发布时间最晚的下载)
 
-3. 下载完之后可以直接解压iso文件到U盘，也可以使用专业一点的软件[Rufus](http://rufus.akeo.ie/?locale=zh_CN)
+3. 下载完之后可以直接解压iso文件到U盘，也可以使用专业一点的软件[Rufus](http://rufus.ie)
 
 ![Rufus截图](02.png)
 ***
 
 ## 目标电脑上做的事情
-
-*请先确认你的电脑登录过微软账号，没有的话请先注册登录，或者做好可能无法激活导致只能某宝15购买一个win10激活密钥的准备*
 
 1. 插上U盘，设置从U盘启动
     * 电脑更改启动方式一般有两种方法：
