@@ -4,6 +4,7 @@ author: m1
 date: 2020-06-17
 tags: [Windows,安装]
 categories: 系统
+main: 如何安装Windows操作系统
 ---
 
 **~~FBI~~ WARNING**
@@ -15,7 +16,7 @@ categories: 系统
 
 1. 首先下载系统镜像，推荐[MSDN我告诉你](https://msdn.itellyou.cn/)，这个是良心大佬搞的一个网站。提供windows系统镜像文件(.iso)的对应磁力链接
 
-2. 选择 操作系统 -- Windows 10, Version xxxx -- Windows 10 (consumer editions), version xxxx (x64) 
+2. 选择 操作系统 -- Windows 10, Version xxxx -- Windows 10 (consumer editions), version xxxx (x64)
 下载链接: ed2k://|file|********
 下载工具：[eagleget](http://www.eagleget.com/cn/) 或 迅雷 或 百度云 + [速盘 - 极速版](http://www.supanx.com) 3元 = 3天内30G流量
 ![网站截图](01.png)(建议选择发布时间最晚的下载)
