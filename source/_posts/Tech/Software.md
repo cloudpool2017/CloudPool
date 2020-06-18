@@ -2,7 +2,7 @@
 title: 软件下载
 author: m1
 date: 2020-06-16
-tags: [软件,安装]
+tags: [实用,软件,安装]
 categories: 浊技术
 main: Windows软件
 ---
@@ -66,7 +66,7 @@ F1截图大法好
 
 ## 特殊工具
 
-* [Dism++](https://www.chuyu.me/zh-Hans/index.html)  实用软件小工具集合
+* [Dism++](https://www.chuyu.me/zh-Hans/index.html)  实用系统管理小工具集合
 
 * [卡硬工具箱](http://www.kbtool.cn/)  硬件检测、管理、性能测试工具以及各种实用软件
 

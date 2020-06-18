@@ -1,11 +1,13 @@
 ---
-title: WTG--U盘内安装Windows
+title: WTG--U盘内安装便携版Windows
 date: 2019-01-21
 author: m1
-tags: [Windows,便携]
+tags: [Windows,安装]
 categories: 系统
 ---
-Windows To Go 是win10的新功能，顾名思义，它叫“便携式Windows系统”，再简单点就是_即插即用的可移动Windows系统_，就是把系统装U盘里。那么下面是教程
+
+Windows To Go 是win10的新功能，顾名思义，它叫“便携式Windows系统”，或者说就是把系统装U盘里（前提是U盘足够快）。
+*这里的"快"并不单指读取或拷贝大文件的速度>=60MB/s，还需要保证的是读取大量小文件延迟较低。这样的U盘不会便宜。
 
 ***
 
