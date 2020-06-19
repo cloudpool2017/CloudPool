@@ -58,10 +58,6 @@ main: Windows软件
 
 F1截图大法好
 
-## Adobe Software
-
-请前往@vposy大神[新浪博客](https://www.weibo.com/vposy)查看船新版本。置顶微博内容仅关注可见。
-
 ---
 
 ## 特殊工具
