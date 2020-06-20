@@ -1,6 +1,6 @@
 ---
 title: Adobe Software
-writer: m1
+author: m1
 date: 2020-06-18
 tags: [专业,软件,安装]
 categories: 浊技术
