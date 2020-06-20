@@ -3,7 +3,7 @@ title: Windows安装
 author: m1
 date: 2020-06-17
 tags: [Windows,安装]
-categories: 系统
+categories: 浊技术
 main: 如何安装Windows操作系统
 ---
 
