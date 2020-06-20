@@ -24,6 +24,7 @@ main: 如何安装Windows操作系统
 3. 下载完之后可以直接解压iso文件到U盘，也可以使用专业一点的软件[Rufus](http://rufus.ie)
 
 ![Rufus截图](02.png)
+
 ***
 
 ## 目标电脑上做的事情
