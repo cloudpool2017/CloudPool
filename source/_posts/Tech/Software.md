@@ -56,7 +56,7 @@ main: Windows软件
 2. **[WinRAR](https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/rrlb/winrar-x64-590sc.exe)**
 
     老牌压缩软件之一，激活方法转自百度WinRAR吧。
-    下载后安装，之后下载[激活文件](rarkey.rar)，用WinRAR打开即激活。
+    下载后请先卸载之前安装的WinRAR(如果有)，重启后安装，之后下载[激活文件](rarkey.rar)，用WinRAR打开即激活。
 
 ### [截图工具 Snipaste](https://zh.snipaste.com/)
 
