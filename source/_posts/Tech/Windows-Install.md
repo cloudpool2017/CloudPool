@@ -1,7 +1,7 @@
 ---
-title: Windows安装
+title: Windows
 author: m1
-date: 2020-06-17
+date: 2020-06-21
 tags: [Windows,安装]
 categories: 浊技术
 main: 如何安装Windows操作系统
@@ -59,4 +59,6 @@ main: 如何安装Windows操作系统
     ![6](i6.png)
     * 然后等8
 
-4. 一般电脑以前登录过微软账号的话Windows会自动联网激活，但是万一没有的话参考上面
+4. 若电脑之前登录过微软账号，Windows会自动联网激活
+
+### [激活工具](DigitalLicense.exe)（可选）

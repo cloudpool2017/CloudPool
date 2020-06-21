@@ -73,3 +73,15 @@ F1 截图大法好
 - [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) 更好地放大图片
 
 \*\*以及强烈推荐最新的 Office 365 订阅版本（群中有账号）。或者可以尝试在闲鱼上搜索'Office 365'，
+
+---
+
+## 学术相关
+
+### [冰点文库下载器](http://www.bingdian001.com/?p=832)
+
+下载**百度文库**的文档
+
+### [豆丁当当](https://www.52pojie.cn/thread-1185880-1-1.html)
+
+下载**豆丁网、book118等网站**的文档
