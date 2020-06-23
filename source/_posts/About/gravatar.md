@@ -14,4 +14,4 @@ main: 设置评论头像
 
 ---
 
-以及很重要的一点：评论可以使用Markdown格式。    [教程1](https://www.runoob.com/markdown/md-tutorial.html)  [教程2](https://markdown.tw)
+以及很重要的一点：评论**可以**使用Markdown格式。    [教程1](https://www.runoob.com/markdown/md-tutorial.html)  [教程2](https://markdown.tw)
