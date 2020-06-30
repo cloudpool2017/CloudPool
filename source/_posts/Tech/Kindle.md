@@ -1,5 +1,5 @@
 ---
-title: Kindle电子书下载指北
+title: Kindle电子书共享指北
 author: m1
 date: 2020-06-30
 tags: [Kindle,电子书,破解]
