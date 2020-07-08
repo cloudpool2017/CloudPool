@@ -37,7 +37,7 @@ main: Windows软件
 很不错的一款杀毒软件
 <span class="heimu" title="你知道的太多了">曾经看到有小道消息说最早是金山(?)的某员工看不惯母公司的行为，一气之下跑出来做了一个良心杀软</span>
 
-### [视频播放器 PotPlayer](http://potplayer.daum.net/?lang=zh_CN) + [皮肤](modern_x_for_potplayer.zip)
+### [视频播放器 PotPlayer](http://potplayer.daum.net/?lang=zh_CN) + [皮肤](modern_x_for_potplayer_update_by_illequal_d9a1sdy.zip)
 
 ### [音乐播放器 Foobox](http://blog.sina.com.cn/s/blog_4c5167670102xhln.html)
 
