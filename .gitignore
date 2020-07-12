@@ -3,7 +3,7 @@ Thumbs.db
 *.log
 public/
 .deploy*/
-
 * - 副本.*
 .vs/
 .vscode/
+# db.json

@@ -1,29 +1,29 @@
 ---
-title: Windows�����汾�뼤��
+title: Windows更换版本与激活
 author: m1
 date: 2020-07-12
-tags: [ʵ��, ϵͳ, ����]
-categories: �Ǽ���
-main: Windows�����
+tags: [实用, 系统, 激活]
+categories: 浊技术
+main: Windows激活方法
 ---
 
-�����ϵıʼǱ�Ԥװ�ļ�������Windows10��ͥ�档
+市面上的笔记本预装的几乎都是Windows10家庭版。
 
-Win10רҵ���Win10��ͥ����Ҫ�������¹��ܣ�
+Win10专业版较Win10家庭版主要增加以下功能：
 
-1. ����ԣ������䣩
-2. Bitlocker����������
-3. Զ�����棨רҵ����������п�����
-4. Hyper-V�������רҵ����� �������\����\����͹���\���û�ر�Windows���� �¿�����
+1. 组策略（待补充）
+2. Bitlocker驱动器加密
+3. 远程桌面（专业版可在设置中开启）
+4. Hyper-V虚拟机（专业版可在 控制面板\程序\程序和功能\启用或关闭Windows功能 下开启）
 
-����������
+升级方法：
 
-1. ����--����--���Ĳ�Ʒ��Կ
+1. 设置--激活--更改产品密钥
 
 	NPPR9-FWDCX-D2C8J-H872K-2YT43
 
-�����󽫱�Ϊδ�����Windows��ҵ��
+重启后将变为未激活的Windows企业版
 
-2. [�����](DigitalLicense.exe)
+2. [激活工具](DigitalLicense.exe)
 
-�򿪣��Ҽ������Ҳ�İ�װ��Կ--Professional��ProfessionalWorkstation--����
+打开，右键窗口右侧的安装密钥--Professional或ProfessionalWorkstation--激活
