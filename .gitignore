@@ -5,3 +5,5 @@ public/
 .deploy*/
 db.json
 * - 副本.*
+.vs
+.vscode
