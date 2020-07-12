@@ -60,6 +60,4 @@ main: 如何安装Windows操作系统
     ![6](i6.png)
     * 然后等待它完成
 
-4. 若电脑之前登录过微软账号，联网后Windows会自动激活
-
-### [激活工具](DigitalLicense.exe)（可选）
+4. 若电脑之前登录过微软账号，联网后Windows会自动激活，如没有，参见[激活](/Activate_Windows)
