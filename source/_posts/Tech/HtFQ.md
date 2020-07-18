@@ -67,3 +67,8 @@ d.（若路由器重启）回 Tunnel Details，重填 IP 地址（如有变化�
 
 尝试： 1.重新连接 WIFI（不一定起效） 2.重启路由器，应该会更换 IP 地址
 之后用新 IP 重新设置 6in4 隧道（重新填写 Tunnel Broker 设置中的 IP 地址即可）
+
+
+## 其他：
+1. [IPv6 DNS Ping 测试](Ping_IPv6_DNS.bat)
+2. [IPv4 DNS Ping 测试](DNSJumper.7z)
