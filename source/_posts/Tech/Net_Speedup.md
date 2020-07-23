@@ -11,7 +11,7 @@ main: 有用
 
 ### DNS 测速
 
-1. [IPv4 DNS Ping 测试](DNSJumper.7z)
+1. [IPv4 DNS Ping 测试](DNSJumper.zip)
 2. [IPv6 DNS Ping 测试](Ping_IPv6_DNS.bat)
 
 ===
