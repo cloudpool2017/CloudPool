@@ -1,5 +1,5 @@
 ---
-title: movie
+title: Movie
 date: 2020-07-24
 tags: [搜索,黑科技]
 categories: 浊技术
@@ -18,3 +18,5 @@ main: 看电影找吃李连杰
 不推荐：
 
 [SkrBT](https://skrbt40.icu/)
+
+    建议搜索电影英文名，用英文句号 . 代替空格
