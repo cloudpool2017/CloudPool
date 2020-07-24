@@ -8,7 +8,7 @@ main: 看电影找吃李连杰
 
 推荐：
 
-[磁力狗](http://ciligou0.net/)  ~~[种子搜](https://www.zhongzilou.com/)~~   ~~[BThub1](https://bthub.site)~~&[BThub2](https://bthub.monster)    [BTdad](http://www.btdad.co/)   ~~[雨花阁](https://www.yhg14.xyz/)~~
+[磁力狗](http://ciligou0.net/)  ~~[种子搜](https://www.zhongzilou.com/)~~   ~~[BThub1](https://bthub.site)~~&[BThub2](https://bthub.monster)   ~~[雨花阁](https://www.yhg14.xyz/)~~
 
 
 未测试：
@@ -17,6 +17,12 @@ main: 看电影找吃李连杰
 
 不推荐：
 
-[SkrBT](https://skrbt40.icu/)
+[SkrBT](https://skrbt40.icu/)    [BTdad](http://www.btdad.co/)
 
     建议搜索电影英文名，用英文句号 . 代替空格
+
+---
+
+字幕下载：
+
+[字幕库](http://www.zimuku.la/) [射手网](https://assrt.net/)    [字幕天堂](http://www.zmtiantang.cc/)   [字幕下载](http://www.zmxiazai.com/)
