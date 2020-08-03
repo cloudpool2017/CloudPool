@@ -142,7 +142,7 @@ lazyload:
   
 live2d:
   enable: true
-  scriptFrom: jsdelivr
+  scriptFrom: local
   pluginRootPath: ./node_modules/hexo-helper-live2d/
   pluginJsPath: ./node_modules/hexo-helper-live2d/src/lib/
   pluginModelPath: ./node_modules/assets/

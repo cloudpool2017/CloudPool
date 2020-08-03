@@ -18,9 +18,9 @@ social:
   qq: https://connect.qq.com/widget/shareqq/index.html?
 
 
-# highlight
-highlight:
-  tomorrow
+
+# highlight:
+#  tomorrow
 
 # catalog
 catalog: true
