@@ -1,7 +1,7 @@
 ---
 title: 实用软件推荐
 author: m1
-date: 2020-06-20
+date: 2020-08-08
 tags: [实用, 软件, 安装]
 categories: 浊技术
 main: Windows软件
@@ -85,3 +85,28 @@ F1 截图大法好
 ### [豆丁当当](https://www.52pojie.cn/thread-1185880-1-1.html)
 
 下载**豆丁网、book118等网站**的文档
+
+---
+
+## 专业软件
+
+### FL Studio
+
+可在[懒得勤快](https://ldqk.org/1373)找到下载链接。有绿色版本（解压即可运行）或安装+破解版本（**可能**有更加接近原版的体验）供选择。
+若使用安装+破解版本，请先下载原版安装包安装，下载地址：
+    http://demodownload.image-line.com/flstudio/flstudio_win_<版本号>.exe
+
+    例如：
+    20.6.2.1549版本：   http://demodownload.image-line.com/flstudio/flstudio_win_20.6.2.1549.exe
+
+### Adobe
+
+* Windows
+
+可前往[@vposy - 新浪微博](https://www.weibo.com/vposy)置顶帖获得船新版本下载链接。置顶微博内容**仅关注**可见。
+
+* Mac
+
+可前往[Adobe ZII官网](https://www.adobezii.com) 或 [Appnee - ADOBE ZII](https://free.appnee.com/adobe-zii/)下载
+
+    已废弃：CCMaker, Adobe Deluxe Patcher

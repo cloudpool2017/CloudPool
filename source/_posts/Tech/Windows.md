@@ -8,9 +8,11 @@ main: 如何安装Windows操作系统
 ---
 
 **~~FBI~~ WARNING**
-*下面的方式重装系统会清空C盘的所有文件，要备份的请先做好备份*
+*请先做好C盘重要文件备份*
 
 ***
+
+# Windows 安装
 
 ## 能够正常运行的电脑上做的事情
 
@@ -60,4 +62,28 @@ main: 如何安装Windows操作系统
     ![6](i6.png)
     * 然后等待它完成
 
-4. 若电脑之前登录过微软账号，联网后Windows会自动激活，如没有，参见[激活](/Activate_Windows)
+4. 若电脑之前登录过微软账号，联网后Windows会自动激活
+
+## Windows 版本更换
+
+### 家庭版升级企业版
+
+* 设置--激活--更改产品密钥
+
+	NPPR9-FWDCX-D2C8J-H872K-2YT43
+
+重启后将变为未激活的Windows企业版
+
+## Windows 激活
+
+Win10专业版较Win10家庭版主要增加以下功能：
+
+1. 组策略（待补充）
+2. Bitlocker驱动器加密
+3. 远程桌面（专业版可在设置中开启）
+4. Hyper-V虚拟机（专业版可在 控制面板\程序\程序和功能\启用或关闭Windows功能 开启）
+
+* [激活工具](DigitalLicense.exe)
+
+打开，右键窗口右侧的安装密钥--Professional或ProfessionalWorkstation--激活
+

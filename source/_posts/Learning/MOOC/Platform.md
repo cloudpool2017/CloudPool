@@ -34,20 +34,23 @@ main: 在家我们能学什么
 
 **大学物理 [力学](https://www.cnmooc.org/portal/course/67/15070.mooc)    [热学](https://www.cnmooc.org/portal/course/3236/15071.mooc)    [电磁学](https://www.cnmooc.org/portal/course/67/15070.mooc)**  （好大学在线）
 
+**[大学化学](http://www.chinesemooc.org/mooc/4388)**    （华文慕课）
+
 ## 专业课程
 
 [组合数学](https://next.xuetangx.com/course/THU08091000450/1511794)  （学堂在线）
 [电路理论（上）](https://www.cnmooc.org/portal/course/72/14823.mooc)    [（下）](https://www.cnmooc.org/portal/course/72/14823.mooc)  （好大学在线）
 [电路原理](https://next.xuetangx.com/course/THU08061000294/1516684)  （学堂在线）
 [有机化学](https://next.xuetangx.com/course/THU07031000429/1516695)  （学堂在线）
+[中级有机化学](http://www.chinesemooc.org/mooc/4410)    （华文慕课）
 [病理学](https://next.xuetangx.com/course/THU10101001598/1512011)  （学堂在线）
 [微生物学（双语）](https://www.cnmooc.org/portal/course/1706/14738.mooc)  （好大学在线）
 
 ## 计算机
 
-[Java程序设计](https://next.xuetangx.com/course/THU08091000251/1510524)  （学堂在线）
 [C++语言程序设计基础](https://next.xuetangx.com/course/THU08091000247/1515741)  （学堂在线）
 [Python语言程序设计](https://www.icourse163.org/course/BIT-268001) (北理@中国大学MOOC)
+[Java程序设计](https://next.xuetangx.com/course/THU08091000251/1510524)  （学堂在线）
 [计算机网络原理和因特网](http://www.chinesemooc.org/mooc/4880)  （华文慕课）
 [操作系统原理](http://www.chinesemooc.org/mooc/4747)  （华文慕课）
 [数据结构与算法](http://www.chinesemooc.org/mooc/4417)  （华文慕课）
@@ -62,5 +65,3 @@ main: 在家我们能学什么
 [中国古代史](http://www.chinesemooc.org/mooc/4415)  （华文慕课）
 [心理学概论](https://next.xuetangx.com/course/THU07111000416/1516445)  （学堂在线）
 [广告的力量](https://www.cnmooc.org/portal/course/5587/14655.mooc)  （好大学在线）
-
-P.S. 欢迎下方提出增删意见
