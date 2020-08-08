@@ -9,12 +9,6 @@ main: 在家我们能学什么
 
 # MOOC平台
 
-## [中国大学MOOC](https://www.icourse163.org)
-
-## [智慧树](https://www.zhihuishu.com)
-
-## [爱课程](http://www.icourses.cn)
-
 ## [华文慕课](http://www.chinesemooc.org)  （北京大学）
 
 ## [学堂在线](https://next.xuetangx.com)   （清华大学等）
@@ -23,16 +17,22 @@ main: 在家我们能学什么
 
 ## [北外网课](https://www.beiwaiclass.com) （北京外国语大学）
 
-(有很多雅思托福课程)
+## [中国大学MOOC](https://www.icourse163.org)
+
+## [智慧树](https://www.zhihuishu.com)
+
+## [爱课程](http://www.icourses.cn)
 
 # 推荐课程
 
 ## 基础课程
 
-**[高等数学--乐经良](http://www.icourses.cn/web/sword/portal/shareDetails?cId=7182)**  （爱课程，需注册）
-或 [Acfun搬运](https://www.acfun.cn/v/ac13019628)
-**[大学物理1](https://next.xuetangx.com/course/THU07021000288/1516043)  [2](https://next.xuetangx.com/course/THU07021000289/1516555)**  （学堂在线）
-**[大学物理 - 力学](https://www.cnmooc.org/portal/course/67/15070.mooc)    [热学](https://www.cnmooc.org/portal/course/3236/15071.mooc)    [电磁学](https://www.cnmooc.org/portal/course/67/15070.mooc)**  （好大学在线）
+**[高等数学](http://www.icourses.cn/web/sword/portal/shareDetails?cId=7182)**  （爱课程，需注册）
+或 [Acfun搬运](https://www.acfun.cn/v/ac13019628)   关键词：上海交大，乐经良
+
+**大学物理 [1](https://next.xuetangx.com/course/THU07021000288/1516043)  [2](https://next.xuetangx.com/course/THU07021000289/1516555)**  （学堂在线）
+
+**大学物理 [力学](https://www.cnmooc.org/portal/course/67/15070.mooc)    [热学](https://www.cnmooc.org/portal/course/3236/15071.mooc)    [电磁学](https://www.cnmooc.org/portal/course/67/15070.mooc)**  （好大学在线）
 
 ## 专业课程
 
@@ -47,6 +47,7 @@ main: 在家我们能学什么
 
 [Java程序设计](https://next.xuetangx.com/course/THU08091000251/1510524)  （学堂在线）
 [C++语言程序设计基础](https://next.xuetangx.com/course/THU08091000247/1515741)  （学堂在线）
+[Python语言程序设计](https://www.icourse163.org/course/BIT-268001) (北理@中国大学MOOC)
 [计算机网络原理和因特网](http://www.chinesemooc.org/mooc/4880)  （华文慕课）
 [操作系统原理](http://www.chinesemooc.org/mooc/4747)  （华文慕课）
 [数据结构与算法](http://www.chinesemooc.org/mooc/4417)  （华文慕课）
