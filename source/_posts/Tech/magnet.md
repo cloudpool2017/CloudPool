@@ -1,6 +1,6 @@
 ---
 title: magnet
-date: 2020-07-24
+date: 2020-08-11
 tags: [搜索,黑科技]
 categories: 浊技术
 main: 看电影找吃李连杰
@@ -8,7 +8,7 @@ main: 看电影找吃李连杰
 
 推荐：
 
-[磁力狗](http://ciligou0.net/)  ~~[种子搜](https://www.zhongzilou.com/)~~   ~~[BThub1](https://bthub.site)~~&[BThub2](https://bthub.monster)   ~~[雨花阁](https://www.yhg14.xyz/)~~
+~~[磁力狗](http://ciligou0.net/)~~  ~~[种子搜](https://www.zhongzilou.com/)~~   ~~[BThub1](https://bthub.site)~~&~~[BThub2](https://bthub.monster)~~   ~~[雨花阁](https://www.yhg14.xyz/)~~
 
 
 未测试：

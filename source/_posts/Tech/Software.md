@@ -1,7 +1,7 @@
 ---
 title: 实用软件推荐
 author: m1
-date: 2020-08-08
+date: 2020-08-17
 tags: [实用, 软件, 安装]
 categories: 浊技术
 main: Windows软件
@@ -21,10 +21,16 @@ main: Windows软件
 
 ### [Vivaldi 浏览器](https://vivaldi.com/zh-hans/)
 
-    优点：1.耐看；2.Chromium(谷歌浏览器)内核，附加组件齐全
-    缺点：同Chrome，不过同步设置功能可用
+    优点：1.耐看；2.Chromium(谷歌浏览器)内核，附加组件齐全；3.同步设置功能可用
+    缺点：同Chrome
 
-> 附加组件： 1.广告过滤：[uBlock Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/) 2.查词/翻译：[沙拉查词](https://saladict.crimx.com/) 3.狗东领券助手：[京价保](https://jjb.im/)
+> 附加组件： 
+    1.广告过滤：[uBlock Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/) 
+    2.查词/翻译：[沙拉查词](https://saladict.crimx.com/) 
+    3.狗东领券助手：[京价保](https://jjb.im/)
+    4.右键解锁：Firefox - [快乐右键](https://addons.mozilla.org/zh-CN/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/)  Chrome - [启用右键](https://chrome.google.com/webstore/detail/enable-right-click-for-go/ofgdcdohlhjfdhbnfkikfeakhpojhpgm)
+
+2020.8.17 不推荐使用新版Edge浏览器，主要原因是前几天听说Edge浏览器应用市场内某个插件被人加入了恶意代码并通过了Edge应用市场审核，新版Edge浏览器可能并不安全
 
 ## 其他常用软件
 
@@ -62,6 +68,17 @@ main: Windows软件
 
 F1 截图大法好
 
+### [清理工具 CCleaner](http://www.ccleaner.com/business/ccleaner-business-edition)
+
+下载 Business Edition
+
+    License Key: C2YW-XZT7-A4SE-UD89-YZPC
+    Name: <Any>
+
+需断网注册
+
+可在设置中取消开机自启
+
 ---
 
 ## 特殊工具
@@ -93,6 +110,7 @@ F1 截图大法好
 ### FL Studio
 
 可在[懒得勤快](https://ldqk.org/1373)找到下载链接。有绿色版本（解压即可运行）或安装+破解版本（**可能**有更加接近原版的体验）供选择。
+
 若使用安装+破解版本，请先下载原版安装包安装，下载地址：
     http://demodownload.image-line.com/flstudio/flstudio_win_<版本号>.exe
 
