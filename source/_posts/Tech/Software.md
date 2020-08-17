@@ -57,12 +57,13 @@ main: Windows软件
 
 1. **[Bandizip](http://www.bandisoft.com/bandizip/old/6/)**
 
-    老牌压缩软件之一，建议使用 v6.x 版本，最新版本有广告。~~安装后请在 选项-设置-常规设置 中关闭自动检测更新。~~貌似现在不用了
+    老牌压缩软件，建议使用 v6.x 版本，最新版本 v7.x 含有广告。
 
-2. **[WinRAR](https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/rrlb/winrar-x64-590sc.exe)**
+2. **WinRAR**
 
-    老牌压缩软件之一，激活方法转自百度WinRAR吧。
-    下载后请先卸载之前安装的WinRAR(如果有)，重启后安装，之后下载[激活文件](rarkey.rar)，用WinRAR打开即激活。
+    老牌压缩软件，下载地址以及激活方法左转[百度WinRAR吧](https://tieba.baidu.com/f?kw=winrar)置顶帖。
+    请先卸载之前安装的WinRAR(如果有)
+    [激活文件备份](rarkey.rar)
 
 ### [截图工具 Snipaste](https://zh.snipaste.com/)
 
