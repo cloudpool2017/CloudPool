@@ -45,6 +45,8 @@ main: Windows软件
 
 ### [视频播放器 PotPlayer](http://potplayer.daum.net/?lang=zh_CN) + [皮肤](modern_x_for_potplayer_update_by_illequal_d9a1sdy.zip)
 
+官网若打不开可尝试 科学上网，软件自动更新不需要 科学上网
+
 ### [音乐播放器 Foobox](http://blog.sina.com.cn/s/blog_4c5167670102xhln.html)
 
 @Dreamawake 大神制作的 Foobar2000 美化优化版本。支持多平台搜索歌曲、自动匹配歌词与[WASAPI](https://baike.baidu.com/item/WASAPI/8114771?fr=aladdin)/[ASIO](https://baike.baidu.com/item/ASIO)两种高级音乐输出功能。
@@ -90,8 +92,6 @@ F1 截图大法好
 
 - [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) 更好地放大图片
 
-\*\*以及强烈推荐最新的 Office 365 订阅版本（群中有账号）。或者可以尝试在闲鱼上搜索'Office 365'，
-
 ---
 
 ## 学术相关
@@ -103,6 +103,10 @@ F1 截图大法好
 ### [豆丁当当](https://www.52pojie.cn/thread-1185880-1-1.html)
 
 下载**豆丁网、book118等网站**的文档
+
+### Office 365
+
+（群中有账号）。或者可以尝试在某宝上搜索'Office 365'，
 
 ---
 
@@ -128,4 +132,4 @@ F1 截图大法好
 
 可前往[Adobe ZII官网](https://www.adobezii.com) 或 [Appnee - ADOBE ZII](https://free.appnee.com/adobe-zii/)下载
 
-    已废弃：CCMaker, Adobe Deluxe Patcher
+~~已废弃：CCMaker, Adobe Deluxe Patcher~~
