@@ -6,4 +6,4 @@ public/
 * - 副本.*
 .vs/
 .vscode/
-# db.json
+db.json
