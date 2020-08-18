@@ -1,6 +1,6 @@
 ---
-title: 看电影
-date: 2020-08-17
+title: 看电影下载电影下载视频
+date: 2020-08-18
 tags: [下载,黑科技]
 categories: 浊技术
 main: 穷学生看电影的那些事
@@ -48,3 +48,35 @@ BluRay(蓝光原盘)＞Remux(蓝光无损提取)＞BluRay/BRRip/BD/BDRip(蓝光�
 * 某雷
 * [6盘](https://v3-beta.6pan.cn/)
 * [马上离线下](https://browser.enjoymore.fun/)
+
+---
+
+## 在线视频下载 (Windows)
+
+### You-Get
+
+使用方法：
+1. 安装[Python3](https://www.python.org/downloads/)
+2. [Download from GitHub](https://github.com/soimort/you-get/releases) you-get.tar.gz 或 Source code (zip)
+3. 解压，Add to **PATH**
+    右键此电脑 *属性* - 窗口左侧 *高级系统设置* - 窗口下方 *环境变量* - 用户变量下方 *编辑* - *新建* 输入解压后文件夹地址
+
+常用功能：
+    $ you-get [url]  # 下载视频 (自动下载字幕/弹幕)
+    -i [url]  # 查看可用的品质和格式
+    -o  # 设置保存路径
+    -O  # 设置保存名称
+
+### Youtube-dl
+
+使用方法：
+1. 安装[Python3](https://www.python.org/downloads/)
+2. [Download from GitHub](https://github.com/ytdl-org/youtube-dl/releases)) youtube-dl.exe 或 youtube-dl.tar.gz
+3. 解压，Add to **PATH**
+    右键此电脑 *属性* - 窗口左侧 *高级系统设置* - 窗口下方 *环境变量* - 用户变量下方 *编辑* - *新建* 输入exe文件地址 或 解压后文件夹地址
+
+常用功能：
+    $ youtube-dl [url]  # 下载视频
+    $ youtube-dl -F [url]  # 查看视频可用格式
+    $ youtube-dl --write-sub [url]  # 下载字幕文件
+    $ youtube-dl --write-auto-sub [url]  # 下载自动生成的字幕文件 (Youtube only)
