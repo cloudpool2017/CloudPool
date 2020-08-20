@@ -8,14 +8,13 @@ main: 穷学生看电影的那些事
 ## [豆瓣电影](https://movie.douban.com/)
 ---
 ## 找资源
-* [磁力狗](http://ciligou0.cc/) [备用地址](http://0200.org)
 * ~~[种子搜](https://www.zhongzilou.com/)~~ ~~[备用地址](https://www.zhongziya.com/)~~
 * ~~[BThub1](https://bthub.site) & [2](https://bthub.monster)~~ [备用地址发布1](https://github.com/fwonggh/Bthub) & [2](https://gitlab.com/fwonggh/Bthub/-/blob/master/README.md)
-* ~~[雨花阁](https://www.yhg14.xyz/)~~
 * [磁力熊](https://www.cilixiong.com/)
 * [磁力蜘蛛](http://www.eclzz.net/)
+* ~~[雨花阁](https://www.yhg14.xyz/)~~
 
-[SkrBT](https://skrbt50.icu/)    [BTdad](http://www.btdad.co/)  ~~[超人搜索](https://www.crsososo.xyz/)~~   [老王磁力](https://laowang40.icu/)  [磁力站](http://mag234.com/home.html)    [BT4G](https://bt4g.org/)
+[SkrBT](https://skrbt50.icu/)    [BTdad](http://www.btdad.co/)  ~~[超人搜索](https://www.crsososo.xyz/)~~   [老王磁力](https://laowang40.icu/)  [磁力站](http://mag234.com/home.html)    [BT4G](https://bt4g.org/)  [磁力狗](http://ciligou0.cc/) [备用地址](http://0200.org)
 
 **建议搜索电影英文名**
 
@@ -27,10 +26,7 @@ BluRay(蓝光原盘)＞Remux(蓝光无损提取)＞BluRay/BRRip/BD/BDRip(蓝光�
 2. 分辨率   4K=2160P=UHD＞1080P=FHD=全高清＞720P=HD=高清
 3. 编码     x265/h265/HEVC＜x264/h264/AVC(主流)
 4. 体积     个人推荐至少4G左右的
-5. 制作者
-顶级：DON、CtrlHD、EbP、THORA、HDC
-不错：WiKi、EuReKa、HDxT、HiDT、ATHD、FraMeSToR、ESiR6
-还行：CHD、 HDS、MySiLU、XTM、FoRM、CRiSC、SoW
+5. 个人建议选择内涵文件比较少的种子下载
 
 来源: [知乎：陕北老汉-网络影视资源下载指南](https://zhuanlan.zhihu.com/p/28715214)
 
