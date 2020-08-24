@@ -25,7 +25,7 @@ main: Windows软件
     缺点：同Chrome
 
 > 附加组件： 
-    1.广告过滤：[uBlock Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/) 
+    1.广告过滤：Firefox - [uBlock Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/) 
     2.查词/翻译：[沙拉查词](https://saladict.crimx.com/) 
     3.狗东领券助手：[京价保](https://jjb.im/)
     4.右键解锁：Firefox - [快乐右键](https://addons.mozilla.org/zh-CN/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/)  Chrome - [启用右键](https://chrome.google.com/webstore/detail/enable-right-click-for-go/ofgdcdohlhjfdhbnfkikfeakhpojhpgm)
@@ -73,14 +73,16 @@ F1 截图大法好
 
 ### [清理工具 CCleaner](http://www.ccleaner.com/business/ccleaner-business-edition)
 
-下载 Business Edition
+下载 Business Edition，注册码：
 
     License Key: C2YW-XZT7-A4SE-UD89-YZPC
-    Name: <Any>
+    Name: <任意>
 
-需断网注册
+需断网注册，可在设置中取消开机自启
 
-可在设置中取消开机自启
+### [PDFelement](https://pdf.wondershare.cn) & [English Website](https://pdf.wondershare.com)
+
+挺不错的PDF阅读工具。在线安装，[破解程序](PDFelement_v7.x.x_Patch_v3.5_By_DFoX.exe)，来自[Nsaneforums](https://www.nsaneforums.com/search/?&q=PDFelement&search_and_or=and&sortby=relevancy)
 
 ---
 
@@ -91,6 +93,8 @@ F1 截图大法好
 - [卡硬工具箱](http://www.kbtool.cn/) 硬件检测、管理、性能测试工具以及各种实用软件
 
 - [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) 更好地放大图片
+
+- [AgentNEO](https://neoladder.org/) + [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 
 ---
 
