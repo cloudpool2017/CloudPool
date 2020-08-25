@@ -1,7 +1,7 @@
 ---
 title: 实用软件推荐
 author: m1
-date: 2020-08-17
+date: 2020-08-26
 tags: [实用, 软件, 安装]
 categories: 浊技术
 main: Windows软件
@@ -50,6 +50,9 @@ main: Windows软件
 ### [音乐播放器 Foobox](http://blog.sina.com.cn/s/blog_4c5167670102xhln.html)
 
 @Dreamawake 大神制作的 Foobar2000 美化优化版本。支持多平台搜索歌曲、自动匹配歌词与[WASAPI](https://baike.baidu.com/item/WASAPI/8114771?fr=aladdin)/[ASIO](https://baike.baidu.com/item/ASIO)两种高级音乐输出功能。
+
+WASAPI输出若提示 error: endpoint creation failed 解决方法：
+DSP管理器 - 激活 重采样器 (PPHS) - 配置 目标采样 48000 Hz
 
 ### [手心输入法](http://www.xinshuru.com/)
 
@@ -111,6 +114,8 @@ F1 截图大法好
 ### Office 365
 
 （群中有账号）。或者可以尝试在某宝上搜索'Office 365'
+
+### 
 
 ---
 
