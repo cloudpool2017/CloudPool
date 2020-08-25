@@ -23,4 +23,4 @@ main: 有用
 4. [下载提速1](https://www.speedtest.cn/tisu/kuandai)
 5. [下载提速2](https://detail.tmall.com/item.htm?spm=a230r.1.14.6.7c0e4a37WSiQqC&id=580030068191)
 
-* 更换路由器后可能失效
+* 更换路由器后可能需重新设置
