@@ -143,3 +143,11 @@ F1 截图大法好
 可前往[Adobe ZII官网](https://www.adobezii.com) 或 [Appnee - ADOBE ZII](https://free.appnee.com/adobe-zii/)下载
 
 ~~已废弃：CCMaker, Adobe Deluxe Patcher~~
+
+---
+
+### 驱动
+
+问题：AMD集显安装通用驱动后提示驱动程序版本不匹配
+解决方法：注册表打开 HKEY_LOCAL_MACHINE\SOFTWARE\AMD\CN ，删除DriverVersion内型号字段，重启
+遗留问题：性能百分比显示不正常
