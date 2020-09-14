@@ -1,7 +1,7 @@
 ---
-title: 网络提速方法
+title: 网络提速与相关资源
 author: m1
-date: 2020-09-08
+date: 2020-09-14
 tags: 网络
 categories: 浊技术
 main: 有用
