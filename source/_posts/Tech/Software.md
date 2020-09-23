@@ -30,7 +30,7 @@ main: Windows软件
     3.狗东领券助手：[京价保](https://jjb.im/)
     4.右键解锁：Firefox - [快乐右键](https://addons.mozilla.org/zh-CN/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/)  Chrome - [启用右键](https://chrome.google.com/webstore/detail/enable-right-click-for-go/ofgdcdohlhjfdhbnfkikfeakhpojhpgm)
 
-2020.8.17 不推荐使用新版Edge浏览器，主要原因是前几天听说Edge浏览器应用市场内某个插件被人加入了恶意代码并通过了Edge应用市场审核，新版Edge浏览器可能并不安全
+(2020.8.17) 不推荐使用新版Edge浏览器，主要原因是前几天听说Edge浏览器应用市场内某个插件被人加入了恶意代码并通过了Edge应用市场审核，新版Edge浏览器可能并不安全
 
 ## 其他常用软件
 
@@ -53,6 +53,8 @@ main: Windows软件
 
 WASAPI输出若提示 error: endpoint creation failed 解决方法：
 DSP管理器 - 激活 重采样器 (PPHS) - 配置 目标采样 48000 Hz　　[参考来源](https://tieba.baidu.com/p/5431845992)
+
+音乐排序方式可选择：右键播放列表标题 - 列 - 专辑艺术家
 
 ### [手心输入法](http://www.xinshuru.com/)
 
@@ -87,18 +89,6 @@ F1 截图大法好
 ### [PDFelement](https://pdf.wondershare.cn) & [English Website](https://pdf.wondershare.com)
 
 挺不错的PDF阅读工具。在线安装，[破解程序](PDFelement_v7.x.x_Patch_v3.5_By_DFoX.exe)，来自[Nsaneforums](https://www.nsaneforums.com/search/?&q=PDFelement&search_and_or=and&sortby=relevancy)
-
----
-
-## 特殊工具
-
-- [Dism++](https://www.chuyu.me/zh-Hans/index.html) 实用系统管理小工具集合
-
-- [卡硬工具箱](http://www.kbtool.cn/) 硬件检测、管理、性能测试工具以及各种实用软件
-
-- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) 更好地放大图片
-
-- [AgentNEO](https://neoladder.org/) + [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 
 ---
 
@@ -145,17 +135,24 @@ F1 截图大法好
 
 ---
 
-### 驱动
+## 小工具/奇技淫巧
 
-问题：AMD集显安装通用驱动后提示驱动程序版本不匹配
-解决方法：注册表打开 HKEY_LOCAL_MACHINE\SOFTWARE\AMD\CN ，删除DriverVersion内型号字段，重启
-遗留问题：性能百分比显示不正常
+- [Dism++](https://www.chuyu.me/zh-Hans/index.html) 实用系统管理小工具集合
 
----
+- [卡硬工具箱](http://www.kbtool.cn/) 硬件检测、管理、性能测试工具以及各种实用软件
 
-### 小工具
+- [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe/releases) 更好地放大图片
 
-#### [ChipGenius](ChipGenius.zip) v4.19.1225
+- [AgentNEO](https://neoladder.org/) + [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 
-可用于查看各接口协议版本（如判断是否正常运行USB3.0）
+- [ChipGenius](ChipGenius.zip) v4.19.1225 可用于查看各接口协议版本（如判断是否正常运行USB3.0）
+
+- 问题：AMD集显安装通用驱动后提示驱动程序版本不匹配
+  解决方法：注册表打开 HKEY_LOCAL_MACHINE\SOFTWARE\AMD\CN ，删除DriverVersion内型号字段，重启
+  遗留问题：性能百分比显示不正常
+
+
+
+
+
 
