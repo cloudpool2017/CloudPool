@@ -1,11 +1,12 @@
 ---
 title: 实用软件推荐
 author: m1
-date: 2020-08-26
+date: 2020-09-26
 tags: [实用, 软件, 安装]
 categories: 浊技术
 main: Windows软件
 ---
+# 电脑
 
 ## 浏览器
 
@@ -151,6 +152,54 @@ F1 截图大法好
   解决方法：注册表打开 HKEY_LOCAL_MACHINE\SOFTWARE\AMD\CN ，删除DriverVersion内型号字段，重启
   遗留问题：性能百分比显示不正常
 
+---
+
+# 手机
+
+### 生活
+
+几何天气
+高德地图
+摩拜单车 & 哈啰出行
+To Do
+
+Airbnb
+大众点评
+12306
+简快递
+
+### 日常
+
+Tim
+Some Bao & Dog Dong
+Alipay & WeChat
+历史价格查询
+Via
+Kiwi Browser
+
+### 学习
+
+欧路词典
+Forest
+Onenote
+Clash
+CamScanner & 白描
+Mathlab
+Radio.net
+
+### 技术
+
+Coolapk
+Mix
+一个木函
+Cellular-Z
+
+### 垃圾
+
+Welink
+Superstar
+易班
+到梦空间
 
 
 
