@@ -186,6 +186,7 @@ Clash
 CamScanner & 白描
 Mathlab
 Radio.net
+百度云 + fulivip.com
 
 ### 技术
 
