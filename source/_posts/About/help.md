@@ -1,5 +1,5 @@
 ---
-title: 【手动置顶】浊池需要帮助
+title: 【手动置顶】新的开始？
 categories: 浊池
 main: 我们都是年轻人
 date: 2099-01-01
@@ -7,14 +7,25 @@ date: 2099-01-01
 {% aplayer "What Would I Change It To" "Avicii" "What_Would_I_Change_It_To.m4a" "What_Would_I_Change_It_To.jpg" "autoplay" "lrc:What_Would_I_Change_It_To.lrc" %}
 
 ---
-　　CloudPool浊池曾是由~~一群~~年轻人管理的博客，现在的内容很杂。
+
+　　CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东西了，这个博客如果还有人看到的话那么十分谢谢你的关注。还是打算使用Hexo作为博客框架，不过维护起来可能稍微有点麻烦。我需要的一是帮手，二是前进的动力。如果你看到了并有兴趣与我聊聊，请联系QQ: 1783074382。
+
+以及另一个建设中的网页：**[浊池读书 r.voii.cc](https://r.voii.cc)**
+说明：r = read, voii = [双拼](Wiki_Screenshot.png)输入 浊池
 
 [R.I.P, Avicii](http://avicii.com/)
 
----
 [为什么我们要做浊池](https://zhuochi.org/About/Why_we_make_it/)
 
 ---
+
+    Todo:
+    1. voii.cc 作为新的博客网址
+    2. 每日一句页面分离
+    3. 学会双拼
+
+---
+
     Done:
     16.12 开始有想法
     16.12 “浊池”名称拟定

@@ -7,7 +7,7 @@
 title: CloudPool浊池
 subtitle: 好像会一点了
 description: 垃圾站点2
-summary: CloudPool浊池是由一群年轻人管理的博客，它的初衷并不是要做一个高大上的博客，而是希望人们玩农药玩累了看段子看睡了无聊到搞Gay了的时候能看见有一些人在做一些让人看了暂时舒服一下的东西，说白了你可以把它理解为一个没那么吵的QQ空间。
+summary: CloudPool浊池是由年轻人管理的博客
 maker: StʌrunneR
 github_username: cloudpool2017
 gitlab_username: CloudPool
@@ -15,7 +15,7 @@ language: zh-Hans
 timezone: Asia/Chongqing
 logo: /images/logo.png
 favicon: /images/cloudpool-favicon.ico
-keyword: 浊池, cloudpool
+keyword: 浊池, CloudPool
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
