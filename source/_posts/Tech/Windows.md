@@ -1,8 +1,8 @@
 ---
-title: Windows安装
+title: Windows安装与激活
 author: m1
 date: 2020-06-21
-tags: [Windows,安装]
+tags: [Windows,安装,激活]
 categories: 浊技术
 main: 如何安装Windows操作系统
 ---
@@ -74,7 +74,7 @@ main: 如何安装Windows操作系统
 
 重启后将变为未激活的Windows企业版
 
-## Windows 激活
+#### 备注
 
 Win10专业版较Win10家庭版主要增加以下功能：
 
@@ -83,7 +83,26 @@ Win10专业版较Win10家庭版主要增加以下功能：
 3. 远程桌面（专业版可在设置中开启）
 4. Hyper-V虚拟机（专业版可在 控制面板\程序\程序和功能\启用或关闭Windows功能 开启）
 
-* [激活工具](DigitalLicense.exe)
+## Windows 激活
 
+Win10的授权方式主要有两种：
+
+1. 数字权利激活（永久激活），可以绑定电脑硬件与Microsoft账户，即使更换硬盘后重装系统，登录之前的Microsoft账户会自动激活。
+
+52pojie论坛内下载的激活工具：
+* [激活工具](DigitalLicense.exe)
+windows defender会报病毒，可能因为它是windows自家的杀毒软件。
+360有时报病毒，火绒不报病毒，病毒类型一般是注册机病毒。具体自行判断。
+[在线病毒扫描](https://r.virscan.org/language/zh-cn/report/284af5a1d964e904c2a883cb6d09da06)
 打开，右键窗口右侧的安装密钥--Professional或ProfessionalWorkstation--激活
 
+2. KMS激活（临时激活，一般每次180天）
+
+命令行（cmd/powershell管理员运行）
+
+slmgr.vbs /upk #卸载当前电脑的密钥
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX #安装win10专业版kms密钥，其他版本密钥请百度 win10 kms密钥
+slmgr /skms zh.us.to #设定激活服务器，若激活失败可尝试其他服务器，如kms.03k.org kms.chinancce.com kms.shuax.com kms.dwhd.org kms.luody.info kms.digiboy.ir kms.lotro.cc www.zgbs.cc
+slmgr /ato #激活
+
+大多数kms激活工具宣传的永久激活只不过是设置了每180天自动运行一次而已，望周知
