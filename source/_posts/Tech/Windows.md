@@ -103,7 +103,7 @@ windows defender会报病毒，可能因为它是windows自家的杀毒软件。
 
     slmgr.vbs /upk #卸载当前电脑的密钥
     slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX #安装win10专业版kms密钥，其他版本密钥请百度 win10 kms密钥
-    slmgr /skms zh.us.to #设定激活服务器，若激活失败可尝试其他服务器，如kms.03k.org kms.chinancce.com kms.shuax.com kms.dwhd.org kms.luody.info kms.digiboy.ir kms.lotro.cc www.zgbs.cc
+    slmgr /skms zh.us.to #设定激活服务器，若激活失败可尝试其他服务器，如kms.03k.org kms.chinancce.com kms.shuax.com kms.dwhd.org kms.luody.info kms.digiboy.ir kms.lotro.cc
     slmgr /ato #激活
 
 大多数kms激活工具宣传的永久激活只不过是设置了每180天自动运行一次而已，望周知
