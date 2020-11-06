@@ -1,7 +1,7 @@
 ---
 title: Windows安装与激活
 author: m1
-date: 2020-06-21
+date: 2020-11-06
 tags: [Windows,安装,激活]
 categories: 浊技术
 main: 如何安装Windows操作系统
