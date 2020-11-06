@@ -89,11 +89,14 @@ Win10的授权方式主要有两种：
 
 1. 数字权利激活（永久激活），可以绑定电脑硬件与Microsoft账户，即使更换硬盘后重装系统，登录之前的Microsoft账户会自动激活。
 52pojie论坛内下载的永久激活工具（绑定电脑）：
+
 * [激活工具](DigitalLicense.exe)
 windows defender会报病毒，可能因为它是windows自家的杀毒软件。
 360有时报病毒，火绒不报病毒，病毒类型一般是注册机病毒。具体自行判断。
 [在线病毒扫描](https://r.virscan.org/language/zh-cn/report/284af5a1d964e904c2a883cb6d09da06)
 打开，右键窗口右侧的安装密钥--Professional或ProfessionalWorkstation--激活
+
+实在不放心建议某宝￥12解决 ( ^ω^)و✧ 
 
 2. KMS激活（临时激活，一般每次180天）
 命令行（cmd/powershell管理员运行）
