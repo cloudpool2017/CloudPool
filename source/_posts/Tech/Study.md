@@ -1,5 +1,5 @@
 ---
-title: 学习！
+title: OneNote辅助学习
 author: m1
 date: 2020-08-18
 tags: [IDEA,学习方法,工具]
