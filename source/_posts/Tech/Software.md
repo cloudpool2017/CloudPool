@@ -79,7 +79,7 @@ F1 截图大法好
 
 ### [清理工具 CCleaner](http://www.ccleaner.com/business/ccleaner-business-edition)
 
-点击Free Trial，下载 Business Edition，注册码：
+点击Free Trial，下载 Business Edition，断网运行，注册码：
 
     License Key: C2YW-XZT7-A4SE-UD89-YZPC
     Name: <任意>
