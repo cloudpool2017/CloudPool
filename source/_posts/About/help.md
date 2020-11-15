@@ -76,3 +76,7 @@ date: 2099-01-01
     19.5 续费zhuochi.org 一年 -$10.70
     20.5 续费cloudpoool.me 一年 -$
 ---
+    备注：各大静态网站服务对比
+|名称|网址|优点|劣势|
+|GitHub|www.github.com|服务稳定|访问速度中等，百度不收录|
+|GitLab|www.github.com|百度可能收录|访问速度中等，服务偶尔中断|

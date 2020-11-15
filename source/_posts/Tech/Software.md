@@ -85,7 +85,9 @@ F1 截图大法好
     Name: <任意>
 
 需断网注册，可在设置中取消开机自启
-使用一段时间后若注册失败断网重新注册即可
+之后使用记事本打开 C:\Windows\System32\drivers\etc\hosts
+增加一行
+127.0.0.1 license.piriform.com
 
 ### [PDFelement](https://pdf.wondershare.cn) & [English Website](https://pdf.wondershare.com)
 
