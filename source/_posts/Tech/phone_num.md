@@ -14,7 +14,7 @@ main: 有用
 [CN & UK & US](https://jiemahao.com/)
 [Other Country](http://receive-sms-online.info/)
 [Other Country](https://sms-online.co/receive-free-sms)
-~~[不可用](https://sms.cm/)~~
+[不可用](https://sms.cm/)
 
 ### 临时邮箱
 
@@ -22,4 +22,4 @@ main: 有用
 [2](http://24mail.chacuo.net/)
 [3](http://www.tempinbox.com/)
 [4](http://www.5-mail.com/)
-~~[5](https://temp-mail.org/zh/)~~
+[5(需要fq)](https://temp-mail.org/zh/)
