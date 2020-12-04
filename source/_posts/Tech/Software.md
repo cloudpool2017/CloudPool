@@ -89,9 +89,11 @@ F1 截图大法好
 增加一行
 127.0.0.1 license.piriform.com
 
-### [PDFelement](https://pdf.wondershare.cn) & [English Website](https://pdf.wondershare.com)
+### [PDFelement](https://pdf.wondershare.cn) or [English Website](https://pdf.wondershare.com)
 
-挺不错的PDF阅读工具。在线安装，[破解程序](PDFelement_v7.x.x_Patch_v3.5_By_DFoX.exe)，来自[Nsaneforums](https://www.nsaneforums.com/search/?&q=PDFelement&search_and_or=and&sortby=relevancy)
+挺不错的PDF阅读工具。
+在线安装，[破解程序](PDFelement_v7.x.x_Patch_v3.5_By_DFoX.exe)，来自[Nsaneforums](https://www.nsaneforums.com/search/?&q=PDFelement&search_and_or=and&sortby=relevancy)
+打开后点击Patch，选择安装目录下对应dll文件
 
 ---
 

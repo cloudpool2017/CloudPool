@@ -1,5 +1,5 @@
 ---
-title: 网络提速与临时手机号/邮箱
+title: 网络提速
 author: m1
 date: 2020-09-14
 tags: 网络
