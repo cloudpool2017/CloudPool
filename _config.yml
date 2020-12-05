@@ -28,8 +28,7 @@ permalink_defaults:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: https://e.coding.net/CloudPool/page.git
-  ## repo: git@github.com:cloudpool2017/CloudPool-Page.git
+  repo: git@github.com:StarunneR/CloudPool.git
   ## repo: git@gitlab.com:cloudpool2017/cloudpool-website.git
   branch: master
 

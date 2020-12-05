@@ -28,20 +28,3 @@ main: 有用
 1. [IPv4 DNS Ping 测试](DNSJumper.zip)
 2. [IPv6 DNS Ping 测试](Ping_IPv6_DNS.bat)
 ---
-#### 临时手机号
-
-[CN & UK](https://www.materialtools.com)
-[CN & UK & US & Others](https://yunduanxin.net/)
-[不可用](https://sms.cm/)
-[CN](http://www.xnsms.com/)
-[CN & UK & US](https://jiemahao.com/)
-[Others](http://receive-sms-online.info/)
-[Others](https://sms-online.co/receive-free-sms)
-
-#### 临时邮箱
-
-[1](https://www.linshiyouxiang.net/)
-[2](http://24mail.chacuo.net/)
-~~[3](https://temp-mail.org/zh/)~~
-[4](http://www.tempinbox.com/)
-[5](http://www.5-mail.com/)
