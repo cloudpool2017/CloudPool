@@ -1,0 +1,21 @@
+
+.commentboard {
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.vsys {
+    display: none !important;
+}
+
+.vlink {
+    display: none !important;
+}
+
+.vnick,.vmail {
+    width: 50% !important;
+}
+
+.vwrap {
+    overflow: inherit !important;
+}

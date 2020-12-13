@@ -1,0 +1,16 @@
+<div class="app-body daily" >
+  <div class="card-container"></div>
+  <%- js('custom/valine.min.js') %>
+  <div id="vcomments" class="commentboard"></div>
+  <script>
+      new Valine({
+          el: '#vcomments',
+          appId: '<%- page.appId %>',
+          appKey: '<%- page.appKey %>',
+          avatar: '<%- page.avatar %>',
+          enableQQ: true,
+          placeholder: '<%- page.prompt %> <% if (page.required == "nick" ) { %>\n\n必需填写昵称。若填写QQ号，再点击邮箱栏会自动获取QQ昵称以及头像 <% } %>',
+          requiredFields: ['<%= page.required %>'],
+      })
+  </script>
+</div>
