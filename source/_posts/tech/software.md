@@ -31,8 +31,6 @@ main: Windows软件
     3.狗东领券助手：[京价保](https://jjb.im/)
     4.右键解锁：Firefox - [快乐右键](https://addons.mozilla.org/zh-CN/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/)  Chrome - [启用右键](https://chrome.google.com/webstore/detail/enable-right-click-for-go/ofgdcdohlhjfdhbnfkikfeakhpojhpgm)
 
-(2020.8.17) 不推荐使用新版Edge浏览器，主要原因是前几天听说Edge浏览器应用市场内某个插件被人加入了恶意代码并通过了Edge应用市场审核，新版Edge浏览器可能并不安全
-
 ## 其他常用软件
 
 ### [TIM](https://office.qq.com/)
@@ -79,19 +77,16 @@ F1 截图大法好
 
 ### [清理工具 CCleaner](http://www.ccleaner.com/business/ccleaner-business-edition)
 
-点击Free Trial，下载 Business Edition，断网运行，注册码：
-
+1. 点击Free Trial，下载 Business Edition，**断网运行**，注册码：
     License Key: C2YW-XZT7-A4SE-UD89-YZPC
     Name: <任意>
-
-需断网注册，可在设置中取消开机自启
-之后使用记事本打开 C:\Windows\System32\drivers\etc\hosts
+可在设置中取消开机自启
+2. 使用记事本打开 C:\Windows\System32\drivers\etc\hosts
 增加一行
 127.0.0.1 license.piriform.com
 
-### [PDFelement](https://pdf.wondershare.cn) or [English Website](https://pdf.wondershare.com)
+### PDF工具[PDFelement](https://pdf.wondershare.cn) or [English Website](https://pdf.wondershare.com)
 
-挺不错的PDF阅读工具。
 在线安装，[破解程序](PDFelement_v7.x.x_Patch_v3.5_By_DFoX.exe)，来自[Nsaneforums](https://www.nsaneforums.com/search/?&q=PDFelement&search_and_or=and&sortby=relevancy)
 打开后点击Patch，选择安装目录下对应dll文件
 
@@ -109,9 +104,7 @@ F1 截图大法好
 
 ### Office 365
 
-（群中有账号）。或者可以尝试在某宝上搜索'Office 365'
-
-### 
+可以尝试在某宝上搜索'Office 365'
 
 ---
 
@@ -158,7 +151,7 @@ F1 截图大法好
 
 ---
 
-# 手机
+# 手机App
 
 ### 生活
 
@@ -199,12 +192,6 @@ Mix
 一个木函
 Cellular-Z
 
-### 垃圾
-
-Welink
-Superstar
-易班
-到梦空间
 
 
 
