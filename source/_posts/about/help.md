@@ -8,21 +8,14 @@ date: 2099-01-01
 
 ---
 
-　　CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东西了，这个博客如果还有人看到的话那么十分谢谢你的关注。还是打算使用Hexo作为博客框架，不过维护起来可能稍微有点麻烦。我需要的一是帮手，二是前进的动力。如果你看到了并有兴趣与我聊聊，请联系QQ: 1783074382。
+　　CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东西了，这个博客如果还有人看到的话那么十分谢谢你的关注。还是打算使用Hexo作为博客框架，不过维护起来可能稍微有点麻烦。我需要的一是帮手，二是前进的动力。如果你看到这里并有兴趣与我聊聊，请联系QQ: 1783074382。
 
 以及另一个建设中的网页：**[浊池读书 voii.cc](https://voii.cc)**
-说明：r = read, voii = [双拼](Wiki_Screenshot.png)输入 浊池
+说明：voii = [双拼](Wiki_Screenshot.png)输入 浊池
 
-[R.I.P, Avicii](http://avicii.com/)
+**[R.I.P, Avicii](http://avicii.com/)**
 
-[为什么我们要做浊池](https://zhuochi.org/About/Why_we_make_it/)
-
----
-
-Todo:
-<del>1. voii.cc 作为新的博客网址</del>
-<del>2. 每日一句页面分离</del>
-3. 学会双拼
+**[为什么我们要做浊池](/About/why_we_make_it/)**
 
 ---
 
@@ -65,6 +58,8 @@ Todo:
     19.6.22 找回源文件
     20.2.21 Valine 头像添加
     20.6.12 搬迁到cloudpoool.me
+    20.12 考虑到访问量原因，迁回zhuochi.org
+    20.12.13 完成访问速度优化
 
 ---
     网站开支：
@@ -74,11 +69,11 @@ Todo:
     18.11 续费域名 zhuochi.org 一年 -￥74.02
     18.11 在Porkbun购买邮箱服务 cloudpool@zhuochi.org 一年 -￥166.87
     19.5 续费zhuochi.org 一年 -$10.70
-    20.5 续费cloudpoool.me 一年 -$
+    20.5 续费cloudpoool.me 一年 -$8
+    20.5 续费zhuochi.org 一年 -$10
 ---
     备注：各大静态网站服务对比
-|名称|网址|优点|劣势|
-|GitHub|www.github.com|服务稳定|访问速度中等，百度不收录|
-|GitLab|www.gitlab.com|百度可能收录|访问速度中等，服务偶尔中断|
----
+    |名称  |主域名         |百度是否收录|其他                    |
+    |GitHub|www.github.com|百度不收录  |访问速度中等，服务较稳定  |
+    |GitLab|www.gitlab.com|百度可能收录|访问速度中等，服务偶尔中断|
 
