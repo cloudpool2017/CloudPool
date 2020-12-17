@@ -48,3 +48,4 @@ comment:
     placeholder: 说点什么吧
     pageSize: 8
     guest_info: nick,mail,link
+    avatar: mp

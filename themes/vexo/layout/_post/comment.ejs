@@ -1,16 +1,16 @@
-<div class="daily" >
+<div class="daily">
     <div class="card-container"></div>
     <%- js('custom/valine.min.js') %>
     <div id="vcomments" class="commentboard"></div>
     <script>
         new Valine({
             el: '#vcomments',
-            appId: '<%- page.appId %>',
-            appKey: '<%- page.appKey %>',
-            avatar: '<%- page.avatar %>',
+            appId: '<%- theme.comment.valine.appId %>',
+            appKey: '<%- theme.comment.valine.appKey %>',
+            avatar: '<%- theme.comment.valine.avatar %>',
             enableQQ: true,
-            placeholder: '<%- page.prompt %> <% if (page.required == "nick" ) { %>\n\n必需填写昵称。若填写QQ号，再点击邮箱栏会自动获取QQ昵称以及头像 <% } %>',
-            requiredFields: ['<%= page.required %>'],
+            placeholder: '<%- theme.comment.valine.prompt %> <% if (theme.comment.valine.required == "nick" ) { %>\n\n必需填写昵称。若填写QQ号，再点击邮箱栏会自动获取QQ昵称以及头像 <% } %>',
+            requiredFields: ['<%= theme.comment.valine.required %>'],
         })
     </script>
-  </div>
+</div>
