@@ -143,7 +143,7 @@ F1 截图大法好
 
 - [AgentNEO](https://neoladder.org/) + [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 
-- [ChipGenius](ChipGenius.zip) v4.19.1225 可用于查看各接口协议版本（如判断是否正常运行USB3.0）
+- [ChipGenius](ChipGenius_v4_20_1107_fix.rar) v4.20.1107 可用于查看各接口协议版本（如判断是否正常运行USB3.1）
 
 - 问题：AMD集显安装通用驱动后提示驱动程序版本不匹配
   解决方法：注册表打开 HKEY_LOCAL_MACHINE\SOFTWARE\AMD\CN ，删除DriverVersion内型号字段，重启
