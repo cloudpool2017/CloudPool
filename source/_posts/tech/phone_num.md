@@ -13,7 +13,7 @@ main: 有用
 [CN & UK & US & Others](https://yunduanxin.net/)
 [CN & UK & US](https://jiemahao.com/)
 [CN & Others](http://z-sms.com/)
-[UK](http://shejiinn.com/)
+[UK & Others](http://shejiinn.com/)
 [UK & US](https://www.freeonlinephone.org/)
 [UK & US](https://www.receivesmsonline.net/)
 [UK & US & Others](http://receive-sms-online.info/)
