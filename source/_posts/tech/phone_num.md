@@ -1,11 +1,12 @@
 ---
-title: 临时手机号与邮箱
+title: 临时手机号&临时邮箱
 author: m1
 date: 2020-12-19
 tags: 网络
 categories: 浊技术
 main: 有用
 ---
+
 ### 临时手机号
 
 [CN & Others](http://www.xnsms.com/)

@@ -4,6 +4,7 @@ date: 2019-01-21
 author: m1
 tags: [Windows,安装]
 categories: 浊技术
+sub: 1
 ---
 
 Windows To Go 是win10的新功能，顾名思义，它叫“便携式Windows系统”，或者说就是把系统装U盘里（前提是U盘足够快）。

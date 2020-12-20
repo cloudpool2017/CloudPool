@@ -5,6 +5,7 @@ date: 2020-06-30
 tags: [Kindle,电子书,破解]
 categories: 浊技术
 main: 共享Kindle电子书
+sub: 1
 ---
 
 Kindle官方电子书带有版权保护，只能在登录了购买者Kindle账户的Kindle设备上阅读。这里的方法可用于破解这种限制。

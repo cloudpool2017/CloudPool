@@ -5,6 +5,7 @@ date: 2020-08-18
 tags: [IDEA,学习方法,工具]
 categories: 浊技术
 main: 一种学习方法的小尝试
+sub: 1
 ---
 
 软件需求：Office 365 (OneNote)

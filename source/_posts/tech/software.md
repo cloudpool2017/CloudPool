@@ -1,7 +1,7 @@
 ---
-title: 实用软件推荐
+title: 电脑手机软件推荐
 author: m1
-date: 2020-09-26
+date: 2020-12-20
 tags: [实用, 软件, 安装]
 categories: 浊技术
 main: Windows软件
@@ -13,12 +13,12 @@ main: Windows软件
 ### [Chrome 浏览器](https://www.google.cn/intl/zh-CN/chrome/) 或 [google.com](https://www.google.com/intl/zh-CN/chrome/)
 
     优点：1.使用流畅，用户体较好；2.兼容性极好(万物基于Chrome)
-    缺点：1.占用后台资源较多；2.附加组件功能与同步功能 可能 无法使用。 可 能
+    缺点：1.占用后台资源较多；2.附加组件功能与同步功能 可 能 无法使用。
 
 ### [火狐浏览器](https://www.mozilla.org/zh-CN/firefox/new/?redirect_source=firefox-com)
 
     优点：1.较轻便，占用后台资源较少；2.附加组件多，可添加许多扩展功能；3.右键--查看元素功能很好用
-    缺点：1.后台服务不如Chrome完全，偶尔可能出现轻微卡顿；2.非谷歌浏览器内核，访问设计不合格的网站时偶尔出现问题(0202年了，现在几乎不会出现这种情况)
+    缺点：1.后台服务不如Chrome完全，偶尔可能出现轻微卡顿；2.非谷歌浏览器内核，访问设计不合格的旧网站时可能出现问题
 
 ### [Vivaldi 浏览器](https://vivaldi.com/zh-hans/)
 
@@ -89,6 +89,8 @@ F1 截图大法好
 
 在线安装，[破解程序](PDFelement_v7.x.x_Patch_v3.5_By_DFoX.exe)，来自[Nsaneforums](https://www.nsaneforums.com/search/?&q=PDFelement&search_and_or=and&sortby=relevancy)
 打开后点击Patch，选择安装目录下对应dll文件
+
+20.12.20 新版本暂无破解程序，请勿更新
 
 ---
 
@@ -163,7 +165,7 @@ To Do
 Airbnb
 大众点评
 12306
-简快递
+快递100
 
 ### 日常
 
@@ -171,7 +173,7 @@ Tim
 Some Bao & Dog Dong
 Alipay & WeChat
 历史价格查询
-Via
+Via (Android)
 Kiwi Browser
 
 ### 学习
