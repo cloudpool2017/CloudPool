@@ -87,10 +87,10 @@ F1 截图大法好
 
 ### PDF工具[PDFelement](https://pdf.wondershare.cn) or [English Website](https://pdf.wondershare.com)
 
-在线安装，[破解程序](PDFelement_v7.x.x_Patch_v3.5_By_DFoX.exe)，来自[Nsaneforums](https://www.nsaneforums.com/search/?&q=PDFelement&search_and_or=and&sortby=relevancy)
+[安装包](https://dawn-shadow-a17b.cloudpool.workers.dev/CloudShare/%25E8%25BD%25AF%25E4%25BB%25B6/pdfelement-pro_full5239.exe)，[破解程序](PDFelement_v7.x.x_Patch_v3.5_By_DFoX.exe)，来自[Nsaneforums](https://www.nsaneforums.com/search/?&q=PDFelement&search_and_or=and&sortby=relevancy)
 打开后点击Patch，选择安装目录下对应dll文件
 
-20.12.20 新版本暂无破解程序，请勿更新
+2020.12 最新版本暂无破解程序，请勿更新
 
 ---
 
@@ -145,11 +145,14 @@ F1 截图大法好
 
 - [AgentNEO](https://neoladder.org/) + [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 
-- [ChipGenius](ChipGenius_v4_20_1107_fix.rar) v4.20.1107 可用于查看各接口协议版本（如判断是否正常运行USB3.1）
+- [ChipGenius v4.20.1107](ChipGenius_v4_20_1107_fix.rar)  可用于查看各接口协议版本（如判断是否正常运行USB3.1）  
+    来自 https://www.mydigit.cn/forum.php?mod=viewthread&tid=209287
 
+<!-- 
 - 问题：AMD集显安装通用驱动后提示驱动程序版本不匹配
-  解决方法：注册表打开 HKEY_LOCAL_MACHINE\SOFTWARE\AMD\CN ，删除DriverVersion内型号字段，重启
-  遗留问题：性能百分比显示不正常
+解决方法：注册表打开 HKEY_LOCAL_MACHINE\SOFTWARE\AMD\CN ，删除DriverVersion内型号字段，重启
+遗留问题：性能百分比显示不正常
+-->
 
 ---
 
