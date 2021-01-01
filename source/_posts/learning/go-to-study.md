@@ -1,5 +1,5 @@
 ---
-title: 走！去学习
+title: gun去学习
 date: 2021-01-01
 tags: 资源
 categories: 学习
