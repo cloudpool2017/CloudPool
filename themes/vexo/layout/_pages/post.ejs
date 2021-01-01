@@ -7,14 +7,14 @@
   </p>
 </div>
 <main class="app-body flex-box">
-  <!-- Catalog START 
-  <% if (theme.catalog && page.catalog == "on") { %>
-    <%- partial('_post/catalog') %>
-  <% } %>
-  Catalog END -->
+
   <!-- Article START -->
   <article class="post-article">
     <%- partial('_post/author') %>
+    <!-- Busuanzi Post Counting -->
+    <% if (page.counting || page.count) { %>
+      <%- partial('_post/counting') %>
+    <% } %>
     <section class="markdown-content" style="font-family:<%- page.font %>; text-indent:<%- page.indent %>">
       <%- page.content %>
     </section>
@@ -25,8 +25,6 @@
       <%- partial('_partial/tag', { tags: page.tags }) %>
     </div>
     <% } %>
-    <!-- Busuanzi Counting -->
-    <!-- <%- partial('_post/counting') %> -->
     <!-- SideBar Catalog -->
     <%- partial('_post/nav') %>
     <!-- Comment -->

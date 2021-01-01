@@ -50,7 +50,7 @@ var bszCaller, bszTag; !function () {
         })
     }, hides: function () {
         this.bszs.map(function (a) {
-            var b = document.getElementById("busuanzi_container_" + a); b && (b.style.display = "none")
+            var b = document.getElementById("busuanzi_container_" + a); b && (b.style.display = "inline")
         })
     }, shows: function () {
         this.bszs.map(function (a) {
