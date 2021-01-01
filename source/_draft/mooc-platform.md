@@ -23,6 +23,7 @@ main: 我们能学什么
 
 ## [北外网课](https://www.beiwaiclass.com) （北京外国语大学）
 
+<!--
 # 推荐课程
 
 ## 基础课程
@@ -65,3 +66,4 @@ main: 我们能学什么
 [中国古代史](http://www.chinesemooc.org/mooc/4415)  （华文慕课） [北京大学]
 [心理学概论](https://next.xuetangx.com/course/THU07111000416)  （学堂在线） [清华大学]
 [广告的力量](https://www.cnmooc.org/portal/course/5587/14655.mooc)  （好大学在线） [上海交通大学]
+-->
