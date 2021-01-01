@@ -1,5 +1,5 @@
 ---
-title: Cyberpunk2777
+title: Cyberpunk2017
 date: 2020-01-13
 author: m1
 tags: 
