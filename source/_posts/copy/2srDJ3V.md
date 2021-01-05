@@ -4,6 +4,7 @@ author: 2srDJ3V @adnmb3.com
 date: 2021-01-05
 sub: 1
 catalog: on
+counting: on
 ---
 <!--
 更新方法：
