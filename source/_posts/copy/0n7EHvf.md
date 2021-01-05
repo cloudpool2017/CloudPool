@@ -3,7 +3,7 @@ title: 《我的牛子今天早上离开了我》
 author: 0n7EHvf @adnmb3.com
 sub: 1
 catalog: on
-counting: on
+counting: 
 ---
 # [来源:A岛 - 0n7EHvf](https://adnmb3.com/t/32939912)
 ### 1
