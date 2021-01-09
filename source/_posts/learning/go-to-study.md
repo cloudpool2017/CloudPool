@@ -1,9 +1,10 @@
 ---
 title: gun去学习
-date: 2021-01-01
+date: 2021-01-09
 tags: 资源
 categories: 学习
 main: 我们还能学什么
+catalog: on
 ---
 # 学习资源
 ## MOOC平台
@@ -24,4 +25,4 @@ main: 我们还能学什么
 ## 交流计划
 [NTU 南洋理工大学 - SummerNTU](https://global.ntu.edu.sg/GMP/GEMTrailblazer/SummerProgramme/Pages/SummerNTU.aspx)
 
-网络大学证书应该有用...吧
+## [虫部落学术搜素](https://scholar.chongbuluo.com/)
