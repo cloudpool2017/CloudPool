@@ -4,7 +4,7 @@ categories: 浊池
 main: 我们都是年轻人
 date: 2099-01-01
 ---
-{% aplayer "What Would I Change It To" "Avicii" "What_Would_I_Change_It_To.m4a" "What_Would_I_Change_It_To.jpg" "autoplay" "lrc:What_Would_I_Change_It_To.lrc" %}
+{% aplayer "What Would I Change It To" "Avicii" "https://dawn-shadow-a17b.cloudpool.workers.dev/CloudShare/Avicii-Without_You_(feat._Sandro_Cavazza).m4a" "What_Would_I_Change_It_To.jpg" "autoplay" "lrc:What_Would_I_Change_It_To.lrc" %}
 
 ---
 
