@@ -9,7 +9,7 @@
             appKey: '<%- page.appKey %>',
             avatar: '<%- page.avatar %>',
             enableQQ: true,
-            placeholder: '<%- page.prompt %> <% if (page.required == "nick" ) { %>\n\n必需填写昵称。若填写QQ号，再点击邮箱栏会自动获取QQ昵称以及头像 <% } %>',
+            placeholder: '<%- page.prompt %> <% if (page.required == "nick" ) { %>\n\n至少填写昵称，若需显示头像请参考置顶页 <% } %>',
             requiredFields: ['<%= page.required %>'],
         })
     </script>
