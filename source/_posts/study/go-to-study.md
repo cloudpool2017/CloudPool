@@ -1,12 +1,13 @@
 ---
-title: gun去学习
-date: 2021-01-09
+title: 学术垃圾场
+date: 2021-01-13
 tags: 资源
 categories: 学习
 main: 我们还能学什么
 catalog: on
 ---
 # 学习资源
+
 ## MOOC平台
 ### 中国大学
 #### [学堂在线](https://next.xuetangx.com)   （清华大学等）
@@ -21,8 +22,16 @@ catalog: on
 #### [edX](https://www.edx.org/)
 #### [Udacity](https://www.udacity.com/)
 ### 其他学习平台
-#### [doyoudo(设计教程)](https://www.doyoudo.com/)
+#### [doyoudo(设计软件教程)](https://www.doyoudo.com/)
 ## 交流计划
 [NTU 南洋理工大学 - SummerNTU](https://global.ntu.edu.sg/GMP/GEMTrailblazer/SummerProgramme/Pages/SummerNTU.aspx)
 
-## [虫部落学术搜素](https://scholar.chongbuluo.com/)
+## 搜索
+### [虫部落学术搜素](https://scholar.chongbuluo.com/)
+### 百度 谷歌
+
+## 软件
+### [冰点文库下载器](http://www.bingdian001.com/?p=30)
+免费下载**百度、豆丁、丁香、MBALib、Book118**等文库的文档。下载为pdf文件，无法修改，可以打印
+### [豆丁当当](https://www.lanzous.com/b953911)
+免费下载**百度、豆丁、丁香、MBALib、Book118**等文库的文档。下载为pdf文件，无法修改，可以打印
