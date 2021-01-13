@@ -4,7 +4,7 @@ categories: 浊池
 main: 我们都是年轻人
 date: 2099-01-01
 ---
-{% aplayer "What Would I Change It To" "Avicii" "https://dawn-shadow-a17b.cloudpool.workers.dev/CloudShare/05_What_Would_I_Change_It_To_(feat._AlunaGeorge).m4a" "What_Would_I_Change_It_To.jpg" "autoplay" "lrc:What_Would_I_Change_It_To.lrc" %}
+{% aplayer "What Would I Change It To" "Avicii" "https://dawn-shadow-a17b.cloudpool.workers.dev/CloudShare/Music/05_What_Would_I_Change_It_To_(feat._AlunaGeorge).m4a" "What_Would_I_Change_It_To.jpg" "autoplay" "lrc:What_Would_I_Change_It_To.lrc" %}
 
 ---
 
@@ -77,4 +77,15 @@ date: 2099-01-01
     |名称  |主域名         |百度是否收录|其他                    |
     |GitHub|www.github.com|百度不收录  |访问速度中等，服务较稳定  |
     |GitLab|www.gitlab.com|百度可能收录|访问速度中等，服务偶尔中断|
+---
 
+现在使用的头像服务是gravatar.com，这是一个从Wordpress时期就已存在的头像服务。
+[主页](https://gravatar.com)
+[注册网址](https://wordpress.com/start/wpcc/oauth2-user/zh-cn)
+如果不能注册请告诉我。
+注册完后评论时留下对应邮箱就会有头像了。
+
+---
+
+评论可以使用**Markdown格式**。
+[教程1](https://www.runoob.com/markdown/md-tutorial.html) Or [教程2](https://markdown.tw)
