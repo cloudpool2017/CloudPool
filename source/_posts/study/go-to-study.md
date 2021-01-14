@@ -33,13 +33,13 @@ counting: on
 
 ## 搜索
 ### [虫部落学术搜素](https://scholar.chongbuluo.com/)
-常用：
+### [学术屋导航](http://sci.xueshuwu.cn/)
+### [虫部落电子书搜素](https://ebook.chongbuluo.com/)
 [CNKI](https://www.cnki.net/)
 [Google学术](https://scholar.google.com) 
 [百度学术](https://xueshu.baidu.com)
 [Bing学术](https://cn.bing.com/academic/)
 [Microsoft Academic](https://academic.microsoft.com)
-### [虫部落电子书搜素](https://ebook.chongbuluo.com/)
 
 ## 软件
 ### [冰点文库下载器](http://www.bingdian001.com/?p=30)
