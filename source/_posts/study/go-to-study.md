@@ -1,6 +1,6 @@
 ---
 title: 学术垃圾场
-date: 2021-01-13
+date: 2021-01-14
 tags: 资源
 categories: 学习
 main: 我们还能学什么
@@ -33,7 +33,13 @@ counting: on
 
 ## 搜索
 ### [虫部落学术搜素](https://scholar.chongbuluo.com/)
-### 百度 谷歌
+常用：
+[CNKI](https://www.cnki.net/)
+[Google学术](https://scholar.google.com) 
+[百度学术](https://xueshu.baidu.com)
+[Bing学术](https://cn.bing.com/academic/)
+[Microsoft Academic](https://academic.microsoft.com)
+### [虫部落电子书搜素](https://ebook.chongbuluo.com/)
 
 ## 软件
 ### [冰点文库下载器](http://www.bingdian001.com/?p=30)
