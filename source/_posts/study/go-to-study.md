@@ -45,4 +45,6 @@ counting: on
 ### [冰点文库下载器](http://www.bingdian001.com/?p=30)
 免费下载**百度、豆丁、丁香、MBALib、Book118**等文库的文档。下载为pdf图片文件及txt文本文件
 ### [豆丁当当下载器](https://www.lanzous.com/b953911)
-免费下载**百度、豆丁、丁香、MBALib、Book118**等文库的文档。下载为pdf图片文件
+同上
+### [天若OCR开源版V5.0.0](https://github.com/AnyListen/tianruoocr/releases)
+神器。Just Do It √
