@@ -47,4 +47,4 @@ counting: on
 ### [豆丁当当下载器](https://www.lanzous.com/b953911)
 同上
 ### [天若OCR开源版V5.0.0](https://github.com/AnyListen/tianruoocr/releases)
-神器。Just Do It √
+神器。= Snipaste + 百度识图 Just Do It √
