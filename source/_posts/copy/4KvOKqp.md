@@ -6,7 +6,7 @@ categories: 小说
 main: 好长...作者又是来自长沙...
 catalog: on
 sub: 
-indent: 2em
+indent: 
 ---
 # 来源： 
 **[A岛匿名版 - 4KvOKqp](http://www.adnmb.com/t/12629107) 串号：12629107**
