@@ -23,7 +23,8 @@
         <% } else if (post.excerpt) { %>
           <%- post.excerpt %>
         <% } else { %>
-          <%- truncate((post.content), {length: 100, omission: '...' }) %>
+          <%- truncate((post.more), {byWords: true, length: 30, omission: '...' }) %>
+        <!-- 此处使用的hexo-html-truncate v1.0.0似乎处理时不会区分</等特殊符号，但输出结果会包含-->
         <% } %>
       </div>
       <a class="more" href="<%- url_for(post.path) %>" target="_blank"><%- theme.excerpt_link %></a>
