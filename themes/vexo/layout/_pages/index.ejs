@@ -23,7 +23,7 @@
         <% } else if (post.excerpt) { %>
           <%- post.excerpt %>
         <% } else { %>
-          <%- truncate((post.content), {length: 200, excludes: '#',decodeEntities: true, byWords: true, omission: '...' }) %>
+          <%- truncate((post.content), {length: 100, omission: '...' }) %>
         <% } %>
       </div>
       <a class="more" href="<%- url_for(post.path) %>" target="_blank"><%- theme.excerpt_link %></a>
