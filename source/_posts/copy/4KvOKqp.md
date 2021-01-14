@@ -1,4 +1,5 @@
----title: 寻灯人
+---
+title: 寻灯人
 date: 2021-01-14
 tags: 都市怪谈
 categories: 小说
