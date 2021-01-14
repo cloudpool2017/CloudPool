@@ -64,7 +64,7 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
     20.6.12 搬迁到cloudpoool.me
     20.12 考虑到访问量原因，迁回zhuochi.org
     20.12.13 完成访问速度优化
-
+    21.1.14 修复首页(index)的文章概要显示错误问题
 ---
     网站开支：
     18.6.7 购买域名 cloudpool2017.com 一年 -￥7.15
@@ -73,7 +73,7 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
     18.11 续费域名 zhuochi.org 一年 -￥74.02
     18.11 在Porkbun购买邮箱服务 cloudpool@zhuochi.org 一年 -￥166.87
     19.5 续费zhuochi.org 一年 -$10.70
-    20.5 续费cloudpoool.me 一年 -$8
+    20.5 续费cloudpoool.me 一年 -$8.56
     20.5 续费zhuochi.org 一年 -$10
     20.12 购买域名voiiu.com 一年 -$8.56
 ---
