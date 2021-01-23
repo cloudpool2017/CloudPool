@@ -19,6 +19,10 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
 
 ---
 
+本站总访问量 <span id="busuanzi_value_site_pv"></span> 次，来自 <span id="busuanzi_value_site_uv"></span> 个IP地址<br/>
+
+---
+
 若网盘无法加载请尝试**刷新**
 
 ---
