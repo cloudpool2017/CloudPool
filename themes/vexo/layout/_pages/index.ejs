@@ -6,13 +6,14 @@
       </h2>
       <p class="article-date">
       <%- date(post.date, "LL") %>
-      <% if (typeof(post.author) == "string" ) { %>
+    <!--  <% if (typeof(post.author) == "string" ) { %>
         By <img class="small-icon" src="/images/<%- post.author %>.png" alt=""> <%- config.member[post.author] %>
       <% } else if (typeof(post.author) == "object") { %>  By 
         <% for  (name in post.author) { %>
           <img class="small-icon" src="/images/<%- post.author[name] %>.png" alt=""> <%- config.member[post.author[name]] %>
         <% } %>
       <% } %>
+    -->
       </p>
       <% if (post.tags && post.tags.length) { %>
         <%- partial('_partial/tag', { tags: post.tags }) %>
