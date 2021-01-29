@@ -6,10 +6,11 @@
       </h2>
       <p class="article-date">
       <%- date(post.date, "LL") %>
-      <% if (typeof(post.author) == "string" ) { %>
-        By <!--<img class="small-icon" src="/images/<%- post.author %>.png" alt="">--> <%- post.author %>
+      <% if (post.author == "m1") { %>
+        By StarunneR
+      <% } else if (post.author) { %>
+        By <%- post.author %>
       <% } %>
-    -->
       </p>
       <% if (post.tags && post.tags.length) { %>
         <%- partial('_partial/tag', { tags: post.tags }) %>
