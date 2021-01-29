@@ -30,3 +30,18 @@ sub: 1
 1. [IPv4 DNS Ping 测试](DNSJumper.zip)
 2. [IPv6 DNS Ping 测试](Ping_IPv6_DNS.bat)
 ---
+## dig命令
+用途：显示详细的DNS查询过程（加强的ping/nslookup）
+
+1. 下载 <https://www.isc.org/download/>
+2. 管理员权限安装 bindinstall.exe
+    Target Directory = C:\Program Files\dig 
+    Options = Tools Only
+    若安装过程中安装Visual C++报错，忽略即可
+3. 添加环境变量
+    右键此电脑 - 属性 - 高级系统设置 - 环境变量 - 用户变量.双击Path - 新建添加环境变量 C:\Program Files\dig\bin
+
+之后在cmd/powershell中即可使用命令
+    dig website.com
+or
+    dig website.com +short
