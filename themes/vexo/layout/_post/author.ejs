@@ -1,3 +1,7 @@
 <div class="article-author">
-
+    <% if (page.author !== "m1") { %>
+        <%- page.author %>
+    <% } else if (page.author == "m1") { %>
+        StarunneR
+    <% } %>
 </div>

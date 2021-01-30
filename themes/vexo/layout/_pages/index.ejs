@@ -6,6 +6,11 @@
       </h2>
       <p class="article-date">
       <%- date(post.date, "LL") %>
+      <% if (post.author && post.author !== "m1") { %>
+        By <%- post.author %>
+      <% } else if (post.author == "m1") { %>
+        By StarunneR
+      <% } %>
       </p>
       <% if (post.tags && post.tags.length) { %>
         <%- partial('_partial/tag', { tags: post.tags }) %>
