@@ -4,18 +4,17 @@
   -webkit-flex-basis: 150px
   flex-shrink: 0
   -webkit-flex-shrink: 0
-  ::-webkit-scrollbar { display: none; }
-  scrollbar-width: none
   @media m-mobile
     display: none
-  .fixed-toc
-    position: fixed
-    top: 90px
+  @media m-pad
+    display: none
   .toc-main
     padding-left: 20px
     border-left: 1px solid color-border
     width: 160px
     box-sizing: border-box
+    position: absolute
+    top: 260px
     .toc-title
       font-size: 1.2em
       position: relative
@@ -34,9 +33,13 @@
       margin-top: 1em
       margin-right: 0.2 em
       overflow-y: scroll
+      scrollbar-width: thin
       max-height: 560px
     ol
       padding-left: 8px
     li
       list-style-type: none
       line-height: 1.5
+  .fixed-toc
+    position: fixed
+    top: 70px
