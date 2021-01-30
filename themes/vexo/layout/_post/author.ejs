@@ -1,7 +1,7 @@
 <div class="article-author">
-    <% if (post.author == "m1") { %>
-        StarunneR
-    <% } else if (post.author) { %>
+    <% if (post.author !== "m1") { %>
         <%- post.author %>
+    <% } else if (post.author == "m1") { %>
+        StarunneR
     <% } %>
 </div>
