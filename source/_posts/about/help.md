@@ -23,6 +23,23 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
 
 ---
 
+若网站访问速度慢，可选择以下镜像站点：
+<https://blog.voii.cc>
+<http://cf-a.cloudpool.me>
+<http://cf.cloudpool.me>
+<http://cf-a.cloudpool.me>
+
+---
+
+现在使用的头像服务是gravatar.com，这是一个从Wordpress时期就已存在的头像服务。
+[主页](https://en.gravatar.com)
+[注册网址](https://wordpress.com/start/wpcc/oauth2-user/zh-cn)
+注册完后评论时留下对应邮箱就会有头像了。
+
+---
+
+评论可以使用**Markdown格式**。
+[教程1](https://www.runoob.com/markdown/md-tutorial.html) Or [教程2](https://markdown.tw)
 若网盘无法加载请尝试**刷新**
 
 ---
@@ -86,14 +103,4 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
     |名称  |主域名         |百度是否收录|其他                    |
     |GitHub|www.github.com|百度不收录  |访问速度中等，服务较稳定  |
     |GitLab|www.gitlab.com|百度可能收录|访问速度中等，服务偶尔中断|
----
 
-现在使用的头像服务是gravatar.com，这是一个从Wordpress时期就已存在的头像服务。
-[主页](https://en.gravatar.com)
-[注册网址](https://wordpress.com/start/wpcc/oauth2-user/zh-cn)
-注册完后评论时留下对应邮箱就会有头像了。
-
----
-
-评论可以使用**Markdown格式**。
-[教程1](https://www.runoob.com/markdown/md-tutorial.html) Or [教程2](https://markdown.tw)
