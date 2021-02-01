@@ -25,8 +25,8 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
 
 若网站访问速度慢，可选择以下镜像站点：
 <https://blog.voii.cc>
-<http://cf.cloudpool.me>
-<http://cf-a.cloudpool.me>
+<https://cf.cloudpool.me>
+<https://cf-a.cloudpool.me>
 
 ---
 
