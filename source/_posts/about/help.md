@@ -19,10 +19,6 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
 
 ---
 
-本站总访问量 <span id="busuanzi_value_site_pv"></span> 次，来自 <span id="busuanzi_value_site_uv"></span> 个IP地址<br/>
-
----
-
 若网站访问速度慢，可选择以下镜像站点：
 <https://blog.voii.cc>
 <https://cf.cloudpool.me>
