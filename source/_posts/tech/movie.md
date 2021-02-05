@@ -1,6 +1,6 @@
 ---
-title: 电影资源搜素网站导航
-date: 2020-12-20
+title: 电影搜素网站
+date: 2021-02-05
 tags: [下载,资源]
 categories: 浊技术
 main: 授人以渔
@@ -10,13 +10,19 @@ main: 授人以渔
 ## 找资源 （可能需要fq）
 
 * [种子搜](https://www.zhongzilou.com/)
-* [SkrBT](https://skrbt063.xyz/)
-* [雨花阁](https://www.yhg66a.xyz/) [雨花阁地址发布](https://www.yuhuage.club/)
 * [BThub1](https://bthub.xyz) & [2](https://bthub.monster) [备用地址发布1](https://github.com/fwonggh/Bthub) & [2](https://gitlab.com/fwonggh/Bthub/-/blob/master/README.md)
-* [磁力熊](https://www.cilixiong.com/)
+* [磁力站](http://mag234.com/home.html)
 * [磁力蜘蛛](http://www.eclzz.net/)
+* [磁力熊](https://www.cilixiong.com/search/)
+* [BT4G](https://bt4g.org/)
+* [巴士搜索](http://bashi5.org)
 
-[老王磁力](https://laowang40.icu/)  [磁力站](http://mag234.com/home.html)    [BT4G](https://bt4g.org/)  [磁力狗](http://ciligou0.cc/)  [巴士搜索](http://bashi5.org)
+不可用：
+[SkrBT](https://skrbt063.xyz/)
+[磁力狗](http://ciligou0.cc/) 
+[雨花阁](https://www.yhg66a.xyz/) [雨花阁地址发布](https://www.yuhuage.club/)
+
+
 
 **建议搜索电影英文名**
 
