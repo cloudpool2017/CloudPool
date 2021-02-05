@@ -10,7 +10,7 @@ main: 授人以渔
 ## 找资源 （可能需要fq）
 
 * [种子搜](https://www.zhongzilou.com/)
-* [BThub1](https://bthub.xyz) & [2](https://bthub.monster) [备用地址发布1](https://github.com/fwonggh/Bthub) & [2](https://gitlab.com/fwonggh/Bthub/-/blob/master/README.md)
+* [BThub1](https://bthub.xyz) & [2](https://bthub.monster) &nbsp;&nbsp;&nbsp;&nbsp; [备用地址发布1](https://github.com/fwonggh/Bthub) & [2](https://gitlab.com/fwonggh/Bthub/-/blob/master/README.md)
 * [磁力站](http://mag234.com/home.html)
 * [磁力蜘蛛](http://www.eclzz.net/)
 * [磁力熊](https://www.cilixiong.com/search/)
