@@ -6,8 +6,17 @@
     <%- date(page.date, "YYYY-MM-DD") %>
   </p>
 </div>
+<!--
+<div class="catalog-container">
+  <div class="toc-main">
+    <strong class="toc-title">目录</strong>
+    <% if (toc(page.content) !== ""){ %>
+      <%- toc(page.content, { "class": "toc-nav", "list_number": false }) %>
+    <% } %>
+  </div>
+</div>
+-->
 <main class="app-body flex-box">
-
   <!-- Article START -->
   <article class="post-article">
     <%- partial('_post/author') %>
@@ -21,7 +30,7 @@
     <!-- Tags -->
     <% if (page.tags && page.tags.length) { %>
     <div class="tags">
-      <span>Tags:</span>
+      <span>标签：</span>
       <%- partial('_partial/tag', { tags: page.tags }) %>
     </div>
     <% } %>
