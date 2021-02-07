@@ -45,11 +45,15 @@
     top: 70px
 
 .mobile-catalog-container
-  display: block
+  display: none
   flex-basis: 25px
   -webkit-flex-basis: 25px
   flex-shrink: 0
   -webkit-flex-shrink: 0
+  @media m-mobile
+    display: block
+  @media m-pad
+    display: block
   .toc-main
     padding-top: 20px
     padding-left: 20px
