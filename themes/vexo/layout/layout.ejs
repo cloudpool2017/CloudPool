@@ -4,11 +4,6 @@
   <body>
     <%- partial('_partial/header') %>
     <%- body %>
-      <!-- Catalog START -->
-  <% if (theme.catalog && page.catalog == "on") { %>
-    <%- partial('_post/catalog') %>
-  <% } %>
-  <!-- Catalog END -->
     <%- partial('_partial/sidebar') %>
     <%- partial('_partial/footer') %>
   </body>

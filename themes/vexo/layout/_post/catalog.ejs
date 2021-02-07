@@ -6,3 +6,12 @@
     <% } %>
   </div>
 </aside>
+
+<div class="mobile-catalog-container"> 
+  <div class="toc-main">
+    <strong class="toc-title">目录</strong>
+    <% if (toc(page.content) !== ""){ %>
+      <%- toc(page.content, { "class": "toc-nav", "list_number": false }) %>
+    <% } %>
+  </div>
+</div>

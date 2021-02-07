@@ -6,16 +6,9 @@
       <%- date(page.date, "YYYY-MM-DD") %>
     </p>
   </div>
-  <!--
-  <div class="catalog-container">
-    <div class="toc-main">
-      <strong class="toc-title">目录</strong>
-      <% if (toc(page.content) !== ""){ %>
-        <%- toc(page.content, { "class": "toc-nav", "list_number": false }) %>
-      <% } %>
-    </div>
-  </div>
-  -->
+  <% if (theme.catalog && page.catalog == "on") { %>
+    <%- partial('_post/catalog') %>
+  <% } %>
   <main class="app-body flex-box">
     <!-- Article START -->
     <article class="post-article">
