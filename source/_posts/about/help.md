@@ -20,9 +20,10 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
 ---
 
 若网站访问速度慢，可选择以下镜像站点：
+
+<http://voiiu.com>
+<https://zhuochi.org>
 <https://blog.voii.cc>
-<https://cf.cloudpool.me>
-<https://cf-a.cloudpool.me>
 
 ---
 
@@ -81,7 +82,8 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
     20.12 考虑到访问量原因，迁回zhuochi.org
     20.12.13 完成访问速度优化
     21.1.14 修复首页(index)的文章概要显示错误问题
-    21.1.30 PC端网页完善目录功能
+    21.1.30 电脑/宽屏Pad端网页完善目录功能
+    21.2 
 ---
     网站开支：
     18.6.7 购买域名 cloudpool2017.com 一年 -￥7.15
