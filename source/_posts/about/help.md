@@ -10,8 +10,8 @@ date: 2099-01-01
 
 CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东西了，这个博客如果还有人看到的话那么十分谢谢你的关注。还是打算使用Hexo作为博客框架，不过维护起来可能稍微有点麻烦。我需要的一是帮手，二是前进的动力。如果你看到这里并有兴趣与我聊聊，请联系QQ: 1783074382。
 
-以及另一个建设中的网页：**[浊池读书 voii.cc](https://voii.cc)**
-说明：voii = [双拼](Wiki_Screenshot.png)输入 浊池
+<!--以及另一个建设中的网页：**[浊池读书 voii.cc](https://voii.cc)**
+说明：voii = [双拼](Wiki_Screenshot.png)输入 浊池-->
 
 **[R.I.P, Avicii](http://avicii.com/)**
 
@@ -34,8 +34,11 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
 
 ---
 
-评论可以使用**Markdown格式**。
+评论可以使用[**Markdown格式**](https://commonmark.org/help/)。
 [教程1](https://www.runoob.com/markdown/md-tutorial.html) Or [教程2](https://markdown.tw)
+
+---
+
 若网盘无法加载请尝试**刷新**
 
 ---
@@ -83,7 +86,7 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客。我又想做点东�
     20.12.13 完成访问速度优化
     21.1.14 修复首页(index)的文章概要显示错误问题
     21.1.30 电脑/宽屏Pad端网页完善目录功能
-    21.2 
+    21.2.5 考虑到访问速度原因，新增域名voiiu.com，寓意 (双拼输入)v[zh]o[uo]i[ch]i[i] & u[you]
 ---
     网站开支：
     18.6.7 购买域名 cloudpool2017.com 一年 -￥7.15
