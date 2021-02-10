@@ -8,8 +8,8 @@
             appId: '<%- theme.comment.valine.appId %>',
             appKey: '<%- theme.comment.valine.appKey %>',
             avatar: '<%- theme.comment.valine.avatar %>',
-            enableQQ: true,
-            placeholder: '<%- theme.comment.valine.prompt %> <% if (theme.comment.valine.required == "nick" ) { %>\n\n必需填写昵称。若填写QQ号，再点击邮箱栏会自动获取QQ昵称以及头像 <% } %>',
+            enableQQ: '<%- theme.comment.valine.enableQQ %>',
+            placeholder: '<%- theme.comment.valine.placeholder %> \n <% if (theme.comment.valine.required == "nick" ) { %>\n必需填写昵称。若填写QQ号，再点击邮箱栏会自动获取QQ昵称以及头像 <% } %>',
             requiredFields: ['<%= theme.comment.valine.required %>'],
         })
     </script>
