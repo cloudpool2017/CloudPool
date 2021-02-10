@@ -52,3 +52,4 @@ comment:
     pageSize: 8
     guest_info: nick,mail
     avatar: mp
+    enableQQ: true
