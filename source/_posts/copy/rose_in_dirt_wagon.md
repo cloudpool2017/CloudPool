@@ -5,7 +5,6 @@ author: Salome
 tags: 
 categories: 小说
 catalog: on
-counting: on
 sub: on
 ---
 * 来源：[微信公众号 - TanzdersiebenSchleier](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxNDgzMTI1Nw==&scene=124#wechat_redirect)
