@@ -50,5 +50,5 @@ comment:
     appKey: arEPHdbMnKwMjQgiWsLgw34N
     placeholder: 说点什么吧
     pageSize: 8
-    guest_info: nick,mail,link
+    guest_info: nick,mail
     avatar: mp
