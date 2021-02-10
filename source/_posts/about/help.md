@@ -8,14 +8,12 @@ date: 2099-01-01
 
 ---
 
-CloudPool浊池曾是由~~一群~~年轻人管理的博客,十分感谢你的关注。使用Hexo作为博客框架。如果有兴趣与我聊聊，联系QQ: 1783074382。
+CloudPool浊池曾是由~~一群~~年轻人管理的博客,十分感谢你的关注。使用Hexo作为博客框架,GitHub Page/GitLab Page作为静态页面托管平台。如果有兴趣与我聊聊，联系QQ: 1783074382。
 
 <!--以及另一个建设中的网页：**[浊池读书 voii.cc](https://voii.cc)**
 说明：voii = [双拼](Wiki_Screenshot.png)输入 浊池-->
 
-**[R.I.P, Avicii](http://avicii.com/)**
-
-**[为什么我们要做浊池](/About/why_we_make_it/)**
+**[为什么我们要做浊池](/About/why_we_made_it/)**
 
 ---
 
@@ -27,19 +25,17 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客,十分感谢你的关
 
 ---
 
-现在使用的头像服务是gravatar.com，这是一个从Wordpress时期就已存在的头像服务。
-[主页](https://en.gravatar.com)
-[注册网址](https://wordpress.com/start/wpcc/oauth2-user/zh-cn)
-注册完后评论时留下对应邮箱就会有头像了。
+* 评论头像设定：[注册](https://wordpress.com/start/wpcc/oauth2-user/zh-cn)
+* 评论时留下对应邮箱即可
+* 评论可以使用[**Markdown格式**](https://commonmark.org/help/)。    [教程1](https://www.runoob.com/markdown/md-tutorial.html) Or [教程2](https://markdown.tw)
 
 ---
 
-评论可以使用[**Markdown格式**](https://commonmark.org/help/)。
-[教程1](https://www.runoob.com/markdown/md-tutorial.html) Or [教程2](https://markdown.tw)
+若[网盘](https://dawn-shadow-a17b.cloudpool.workers.dev/CloudShare/)无法加载请尝试**刷新**
 
 ---
 
-若网盘无法加载请尝试**刷新**
+**[R.I.P, Avicii](http://avicii.com/)**
 
 ---
 
@@ -87,6 +83,7 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客,十分感谢你的关
     21.1.14 修复首页(index)的文章概要显示错误问题
     21.1.30 电脑/宽屏Pad端网页完善目录功能
     21.2.5 考虑到访问速度原因，新增域名voiiu.com，寓意 (双拼输入)v[zh]o[uo]i[ch]i[i] & u[you]
+    21.2.6 手机端网页加入目录功能
 ---
     网站开支：
     18.6.7 购买域名 cloudpool2017.com 一年 -￥7.15
@@ -99,8 +96,8 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客,十分感谢你的关
     20.5 续费zhuochi.org 一年 -$10
     20.12 购买域名voiiu.com 一年 -$8.56
 ---
-    备注：各大静态网站服务对比
+<!--    备注：各大静态网站服务对比
     |名称  |主域名         |百度是否收录|其他                    |
     |GitHub|www.github.com|百度不收录  |访问速度中等，服务较稳定  |
     |GitLab|www.gitlab.com|百度可能收录|访问速度中等，服务偶尔中断|
-
+-->
