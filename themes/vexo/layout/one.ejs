@@ -1,6 +1,6 @@
 <div id="article-banner">
     <h2>一句</h2>
-    <p id="hitokoto" class="post-date"><a href="#" id="hitokoto_text">:D 加载中...</a></p>
+    <p id="hitokoto" class="yiyan"><a href="#" id="hitokoto_text">:D 加载中...</a></p>
 </div>
 <main class="app-body">
     <!--<div class="card-container"></div>-->
@@ -8,7 +8,6 @@
     <h4>接口来自: <a href="https://hitokoto.cn/">一言</a></h4>
 </main>
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
-<%- js('custom/valine.min.js') %>
 <script>
     (function () {
         var url = '<%= config.url %>/<%= page.path %>';
@@ -20,6 +19,7 @@
                 })
     })()
 </script>
+<%- js('custom/valine.min.js') %>
 <script>
     new Valine({
         el: '#vcomments',
