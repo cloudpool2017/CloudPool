@@ -1,0 +1,33 @@
+<div id="article-banner">
+    <h2>一句</h2>
+    <p id="hitokoto" class="post-date"><a href="#" id="hitokoto_text">:D 加载中...</a></p>
+</div>
+<main class="app-body">
+    <!--<div class="card-container"></div>-->
+    <div id="vcomments" class="commentboard one"></div>
+    <h4>接口来自: <a href="https://hitokoto.cn/">一言</a></h4>
+</main>
+<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+<%- js('custom/valine.min.js') %>
+<script>
+    (function () {
+        var url = '<%= config.url %>/<%= page.path %>';
+        $('#article-banner').geopattern(url);
+        $('.header').removeClass('fixed-header')
+        $('.card-header').each(function () {
+                    var name = $(this).data('name');
+                    $(this).geopattern(name);
+                })
+    })()
+</script>
+<script>
+    new Valine({
+        el: '#vcomments',
+        appId: '<%- page.appId %>',
+        appKey: '<%- page.appKey %>',
+        avatar: '<%- page.avatar %>',
+        enableQQ: true,
+        placeholder: '<%- page.prompt %> <% if (page.required == "nick" ) { %>\n\n至少填写昵称，若需显示头像请参考置顶页 <% } %>',
+        requiredFields: ['<%= page.required %>'],
+    })
+</script>

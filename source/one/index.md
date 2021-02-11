@@ -1,6 +1,6 @@
 ---
 title: 一句
-layout: valine
+layout: one
 avatar: mp
 prompt: 支持Markdown语法
 appId: M2JD6yGQhefhH2O0aSjFfclc-MdYXbMMI
