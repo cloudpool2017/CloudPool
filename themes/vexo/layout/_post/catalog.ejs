@@ -1,6 +1,6 @@
 <aside class="catalog-container">
   <div class="toc-main">
-    <strong class="toc-title">目录</strong>
+    <div class="toc-title">目录</div>
     <% if (toc(page.content) !== ""){ %>
       <%- toc(page.content, { "class": "toc-nav", "list_number": false }) %>
     <% } %>
@@ -9,7 +9,7 @@
 
 <div class="mobile-catalog-container"> 
   <div class="toc-main">
-    <strong class="toc-title">目录(上下划动)</strong>
+    <div class="toc-title">目录</div><span>(上下划动)</span>
     <% if (toc(page.content) !== ""){ %>
       <%- toc(page.content, { "class": "toc-nav", "list_number": false }) %>
     <% } %>
