@@ -25,6 +25,10 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客,十分感谢你的关
 
 ---
 
+* [A岛颜文字选择器](https://starunner.github.io/emoticons-picker/)
+
+---
+
 * 评论头像设定：[注册](https://wordpress.com/start/wpcc/oauth2-user/zh-cn)
 * 评论时留下对应邮箱即可
 * 评论可以使用[**Markdown格式**](https://commonmark.org/help/)。    [教程1](https://www.runoob.com/markdown/md-tutorial.html) Or [教程2](https://markdown.tw)
