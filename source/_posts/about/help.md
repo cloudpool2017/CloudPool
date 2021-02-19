@@ -25,7 +25,7 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客,十分感谢你的关
 
 ---
 
-* [A岛颜文字拾取器](https://starunner.github.io/emoticons-picker/)
+* [A岛颜文字拾取器](https://starunner.github.io/emoticons-picker/) or <http://emoji.voiiu.com/>
 
 ---
 
