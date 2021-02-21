@@ -1,3 +1,4 @@
+<!-- LINE 76 -->
 <div id="article-banner">
   <h2>
     <%- page.title %>
@@ -72,6 +73,7 @@
     // zoom image
     $(".markdown-content img").on('click', function () {
       var src = $(this).attr('src')
+      // error-img should get changed
       if (src !== 'http://file.muyutech.com/error-img.png') {
         var imageW = $(this).width()
         var imageH = $(this).height()
