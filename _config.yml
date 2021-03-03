@@ -21,7 +21,7 @@ keyword: 浊池, CloudPool
 url: https://zhuochi.org
 # url: https://cloudpool.me
 root: /
-permalink: :title/
+permalink: :name/
 permalink_defaults:
 
 # Deployment
