@@ -42,7 +42,7 @@ var bszCaller, bszTag;
             })
         }
     }
-}, bszCaller.fetch("https://busuanzi.ibruce.info/busuanzi?jsonpCallback=BusuanziCallback", function (a) {
+}, bszCaller.fetch("http://busuanzi.ibruce.info/busuanzi?jsonpCallback=BusuanziCallback", function (a) {
     bszTag.texts(a), bszTag.shows()
 }), bszTag = {
     bszs: [
