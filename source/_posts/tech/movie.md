@@ -1,28 +1,27 @@
 ---
 title: 电影搜素网站
-date: 2021-02-05
+date: 2021-03-28
 tags: [下载,资源]
 categories: 浊技术
 main: 授人以渔
+author: m1
 ---
 ## [豆瓣电影](https://movie.douban.com/)
 ---
 ## 找资源 （可能需要fq）
 
-* [种子搜](https://www.zhongzilou.com/)
-* [BThub1](https://bthub.xyz) & [2](https://bthub.monster) &nbsp;&nbsp;&nbsp;&nbsp; [备用地址发布1](https://github.com/fwonggh/Bthub) & [2](https://gitlab.com/fwonggh/Bthub/-/blob/master/README.md)
-* [磁力站](http://mag234.com/home.html)
-* [磁力蜘蛛](http://www.eclzz.net/)
-* [磁力熊](https://www.cilixiong.com/search/)
-* [BT4G](https://bt4g.org/)
+* [种子搜](https://www.zhongzilou.com/) [种子搜导航](https://www.zhongzidizhi.com/)
+* [BThub地址发布 GitHub](https://github.com/fwonggh/Bthub) [GitLab](https://gitlab.com/fwonggh/Bthub/-/blob/master/README.md)
+
+* [雨花阁 地址发布](https://www.yuhuage.club/)
+* [磁力狗 源网址](http://ciligou.app/)  [跳转域名](http://clg8.info)
+* [磁力蜘蛛 源网址](http://www.eclzz.net/) [跳转域名](http://www.eclzz.shop/)
+* [磁力熊搜素](https://www.cilixiong.com/search/)
 * [巴士搜索](http://bashi5.org)
+* [BT4G](https://bt4g.org/)
 
-不可用：
-[SkrBT](https://skrbt063.xyz/)
-[磁力狗](http://ciligou0.cc/) 
-[雨花阁](https://www.yhg66a.xyz/) [雨花阁地址发布](https://www.yuhuage.club/)
-
-
+已关站：
+磁力熊猫，磁力柠檬 ，老王磁力，BT1207，SkrBT
 
 **建议搜索电影英文名**
 
