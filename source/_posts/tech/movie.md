@@ -12,8 +12,8 @@ main: 授人以渔
 
 * [种子搜](https://www.zhongzilou.com/) [种子搜导航](https://www.zhongzidizhi.com/)
 * [BThub地址发布 GitHub](https://github.com/fwonggh/Bthub) [GitLab](https://gitlab.com/fwonggh/Bthub/-/blob/master/README.md)
-
 * [雨花阁 地址发布](https://www.yuhuage.club/)
+（需要关注微信公众号）
 * [磁力狗 源网址](http://ciligou.app/)  [跳转域名](http://clg8.info)
 * [磁力蜘蛛 源网址](http://www.eclzz.net/) [跳转域名](http://www.eclzz.shop/)
 * [磁力熊搜素](https://www.cilixiong.com/search/)
