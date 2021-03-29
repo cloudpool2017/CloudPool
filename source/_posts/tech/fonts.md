@@ -46,3 +46,5 @@ SimSun-ExtB
 站酷高端黑
 站酷快乐体
 王汉宗自由字型
+
+* iPad可使用 RightFont 应用安装字体，价格 ￥18
