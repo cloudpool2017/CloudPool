@@ -83,7 +83,7 @@ F1 截图大法好
 可在设置中取消开机自启
 2. 使用记事本打开 C:\Windows\System32\drivers\etc\hosts
 增加一行
-127.0.0.1 license.piriform.com
+    127.0.0.1 license.piriform.com
 
 ### PDF工具[PDFelement](https://pdf.wondershare.cn) or [English Website](https://pdf.wondershare.com)
 
