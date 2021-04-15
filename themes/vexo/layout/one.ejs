@@ -9,6 +9,7 @@
     <h4>接口来自: <a href="https://hitokoto.cn/">一言</a></h4>
 </main>
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+<%- js('js/valine.min.js') %>
 <script>
     (function () {
         var url = '<%= config.url %>/<%= page.path %>';
@@ -20,7 +21,6 @@
                 })
     })()
 </script>
-<%- js('custom/valine.min.js') %>
 <script>
     new Valine({
         el: '#vcomments',
