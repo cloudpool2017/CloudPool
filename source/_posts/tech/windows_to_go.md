@@ -1,5 +1,5 @@
 ---
-title: WTG--U盘内安装便携版Windows
+title: Windows To Go
 date: 2019-01-21
 author: m1
 tags: [Windows,安装]

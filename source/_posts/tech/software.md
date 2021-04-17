@@ -1,5 +1,5 @@
 ---
-title: 电脑手机软件推荐
+title: 常用软件推荐
 author: m1
 date: 2021-04-11
 tags: [实用, 软件, 安装]

@@ -5,7 +5,7 @@ tags: [技术,字体]
 categories: 浊技术
 main: 解决字体无法显示的疑难杂症
 catalog: 
-counting: 
+counting: on
 sub: 
 ---
 

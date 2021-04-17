@@ -39,7 +39,7 @@ BluRay(蓝光原盘)＞Remux(蓝光无损提取)＞BluRay/BRRip/BD/BDRip(蓝光�
 ---
 
 ### 字幕下载：
-[字幕库](http://www.zimuku.la/)
+~~[字幕库](http://www.zimuku.la/)~~
 [射手网](https://assrt.net/)
 [字幕天堂](http://www.zmtiantang.cc/)
 [字幕下载](http://www.zmxiazai.com/)
