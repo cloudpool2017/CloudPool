@@ -1,13 +1,13 @@
 ---
 title: 学术垃圾场
-date: 2021-01-14
-tags: 资源
+date: 2021-04-17
+date1: 2021-01-14
+tags: [视频,学习,MOOC,公开课]
 categories: 学习
 main: 我们还能学什么
 catalog: on
 counting: on
 ---
-# 学习资源
 
 ## MOOC平台
 ### 中国大学
@@ -28,8 +28,6 @@ counting: on
 ### 其他学习平台
 #### [doyoudo](https://www.doyoudo.com/)
 设计软件教程
-## 交流计划
-[NTU 南洋理工大学 - SummerNTU](https://global.ntu.edu.sg/GMP/GEMTrailblazer/SummerProgramme/Pages/SummerNTU.aspx)
 
 ## 搜索
 ### [虫部落学术搜素](https://scholar.chongbuluo.com/)
@@ -42,9 +40,9 @@ counting: on
 [Microsoft Academic](https://academic.microsoft.com)
 
 ## 软件
-### [冰点文库下载器](http://www.bingdian001.com/?p=30)
+### [冰点文库下载器](https://dawn-shadow-a17b.cloudpool.workers.dev/CloudShare/Software/)
 免费下载**百度、豆丁、丁香、MBALib、Book118**等文库的文档。下载为pdf图片文件及txt文本文件
 ### [豆丁当当下载器](https://www.lanzous.com/b953911)
 同上
 ### [天若OCR开源版V5.0.0](https://github.com/AnyListen/tianruoocr/releases)
-神器。= Snipaste + 百度识图 Just Do It √
+截图 + OCR文字识别

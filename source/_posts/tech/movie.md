@@ -2,7 +2,7 @@
 title: 电影搜素网站
 date: 2021-03-28
 author: m1
-tags: [下载,资源]
+tags: [下载,资源,电影,娱乐]
 categories: 浊技术
 main: 授人以渔
 ---
@@ -12,13 +12,12 @@ main: 授人以渔
 
 * [种子搜](https://www.zhongzilou.com/) [种子搜导航](https://www.zhongzidizhi.com/)
 * [BThub地址发布 GitHub](https://github.com/fwonggh/Bthub) [GitLab](https://gitlab.com/fwonggh/Bthub/-/blob/master/README.md)
-* [雨花阁 地址发布](https://www.yuhuage.club/)
-（需要关注微信公众号）
+* [BT4G](https://bt4g.org/)
 * [磁力狗 源网址](http://ciligou.app/)  [跳转域名](http://clg8.info)
 * [磁力蜘蛛 源网址](http://www.eclzz.net/) [跳转域名](http://www.eclzz.shop/)
 * [磁力熊搜素](https://www.cilixiong.com/search/)
 * [巴士搜索](http://bashi5.org)
-* [BT4G](https://bt4g.org/)
+* [雨花阁 地址发布](https://www.yuhuage.club/)
 
 已关站：
 磁力熊猫，磁力柠檬 ，老王磁力，BT1207，SkrBT
