@@ -11,22 +11,26 @@ counting: on
 
 ## MOOC平台
 ### 中国大学
-#### [学堂在线](https://next.xuetangx.com)
+* [学堂在线](https://next.xuetangx.com)
 （清华大学等）
-#### [好大学在线](https://www.cnmooc.org)
+* [好大学在线](https://www.cnmooc.org)
 （上海交通大学等）
-#### [中国大学MOOC](https://www.icourse163.org)
-#### [智慧树](https://www.zhihuishu.com)
-#### [爱课程](http://www.icourses.cn)
-#### [北外网课](https://www.beiwaiclass.com)
+* [中国大学MOOC](https://www.icourse163.org)
+* [智慧树](https://www.zhihuishu.com)
+* [爱课程](http://www.icourses.cn)
+* [北外网课](https://www.beiwaiclass.com)
 （北京外国语大学）
+* [网易云课堂](https://study.163.com/)
+* [MOOC中国](https://www.mooc.cn/)
+* [慕课网](https://www.imooc.com/)
 ### 世界大学
-#### [Coursera](https://www.coursera.org/)
-#### [Udemy](https://www.udemy.com/)
-#### [edX](https://www.edx.org/)
-#### [Udacity](https://www.udacity.com/)
+* [Coursera](https://www.coursera.org/)
+* [Udemy](https://www.udemy.com/)
+* [edX](https://www.edx.org/)
+* [Udacity](https://www.udacity.com/)
+* [FutureLearn](https://www.futurelearn.com/)
 ### 其他学习平台
-#### [doyoudo](https://www.doyoudo.com/)
+* [doyoudo](https://www.doyoudo.com/)
 设计软件教程
 
 ## 搜索
