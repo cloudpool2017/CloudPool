@@ -1,7 +1,7 @@
 ---
 title: 常用软件推荐
 author: m1
-date: 2021-04-11
+date: 2021-04-19
 tags: [实用, 软件, 安装]
 categories: 浊技术
 main: Windows软件
@@ -201,6 +201,12 @@ Coolapk
 Mix
 一个木函
 Cellular-Z
+
+## 搜索引擎
+
+* [Google](https://www.google.com)
+* [百度](https://www.baidu.com)
+* [聚合搜索(神马+360+搜狗)](https://www.gobaidugle.com/search3?engine=3&keyword=%E5%8D%B0%E7%AE%B1&num=10&one=sm&two=so&three=sogou&four=so&rsv_enter=1&rsv_bp=1)
 
 
 
