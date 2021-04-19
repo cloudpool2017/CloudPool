@@ -10,7 +10,8 @@ date: 2099-01-01
 
 ---
 
-CloudPool浊池曾是由~~一群~~年轻人管理的博客,十分感谢你的关注。使用Hexo作为博客框架,GitHub Page/GitLab Page作为静态页面托管平台。如果有兴趣与我聊聊，联系QQ: 1783074382。
+CloudPool浊池曾是由~~一群~~年轻人管理的博客,十分感谢你的关注。使用Hexo作为博客框架,GitHub Page/GitLab Page作为静态页面托管平台。
+联系QQ: 1783074382。
 
 <!--以及另一个建设中的网页：**[浊池读书 voii.cc](https://voii.cc)**
 说明：voii = [双拼](Wiki_Screenshot.png)输入 浊池-->
@@ -37,7 +38,7 @@ CloudPool浊池曾是由~~一群~~年轻人管理的博客,十分感谢你的关
 
 ---
 
-若[网盘](https://dawn-shadow-a17b.cloudpool.workers.dev/CloudShare/)无法加载请尝试**刷新**
+若[网盘 pan.voiiu.com](https://dawn-shadow-a17b.cloudpool.workers.dev/CloudShare/)无法加载请尝试**刷新**
 
 ---
 
