@@ -50,8 +50,11 @@ BluRay(蓝光原盘)＞Remux(蓝光无损提取)＞BluRay/BRRip/BD/BDRip(蓝光�
 * 度盘
 * 某雷
 * ~~[6盘](https://v3-beta.6pan.cn/)~~
-* [马上离线下](https://browser.enjoymore.fun/)
+* ~~[马上离线下](https://browser.enjoymore.fun/)~~
 * [115](https://115.com)
+* [比特球](https://pan.bitqiu.com/)
+
+[Reference](https://zhuanlan.zhihu.com/p/153555873)
 
 ---
 
