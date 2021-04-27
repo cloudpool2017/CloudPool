@@ -74,7 +74,7 @@ F1 截图大法好
 
 * PDF工具[PDFelement](https://pdf.wondershare.cn) or [English Website](https://pdf.wondershare.com)
 
-[安装包](https://download.wondershare.com/cbs_down/pdfelement-pro_full5239.exe)，[破解程序](PDFelement_v7.x.x_Patch_v3.5_By_DFoX.exe)，来自[Nsaneforums](https://www.nsaneforums.com/search/?&q=PDFelement&search_and_or=and&sortby=relevancy)
+[安装包](http://download.wondershare.com/pdfelement7_en.exe)，[破解程序](PDFelement_v7.x.x_Patch_v3.5_By_DFoX.exe)，来自[Nsaneforums](https://www.nsaneforums.com/search/?&q=PDFelement&search_and_or=and&sortby=relevancy)
 打开后点击Patch，选择安装目录下对应dll文件
 
 * [爱思助手](https://www.i4.cn/)
