@@ -1,6 +1,6 @@
 ---
 title: 电影搜素网站
-date: 2021-03-28
+date: 2021-04-27
 author: m1
 tags: [下载,资源,电影,娱乐]
 categories: 浊技术
@@ -49,8 +49,9 @@ BluRay(蓝光原盘)＞Remux(蓝光无损提取)＞BluRay/BRRip/BD/BDRip(蓝光�
 
 * 度盘
 * 某雷
-* [6盘](https://v3-beta.6pan.cn/)
+* ~~[6盘](https://v3-beta.6pan.cn/)~~
 * [马上离线下](https://browser.enjoymore.fun/)
+* [115](https://115.com)
 
 ---
 
