@@ -45,7 +45,9 @@ main: Windows软件
 
 * [音乐播放器 Foobox](https://github.com/dream7180/foobox-cn/)
 
-@Dreamawake 大神制作的 Foobar2000 美化优化版本。支持多平台搜索歌曲、自动匹配歌词与[WASAPI](https://baike.baidu.com/item/WASAPI/8114771?fr=aladdin)/[ASIO](https://baike.baidu.com/item/ASIO)两种高级音乐输出功能。
+@Dreamawake 大神制作的 Foobar2000 美化优化版本。支持多平台搜索歌曲、自动匹配歌词与[WASAPI音乐输出](https://baike.baidu.com/item/WASAPI/8114771?fr=aladdin)功能。
+
+    软件WASAPI输出：[组件下载](https://www.foobar2000.org/components/view/foo_out_wasapis)
 
     WASAPI输出若提示 error: endpoint creation failed 解决方法：
     DSP管理器 - 激活 重采样器 (PPHS) - 配置 目标采样 48000 Hz　　[参考来源](https://tieba.baidu.com/p/5431845992)
