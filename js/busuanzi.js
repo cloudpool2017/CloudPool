@@ -43,6 +43,7 @@ var bszCaller, bszTag;
         }
     }
 }, bszCaller.fetch("https://busuanzi.ibruce.info/busuanzi?jsonpCallback=BusuanziCallback", function (a) {
+    // https is required
     bszTag.texts(a), bszTag.shows()
 }), bszTag = {
     bszs: [

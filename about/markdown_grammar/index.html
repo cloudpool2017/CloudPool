@@ -227,33 +227,30 @@
   <div class="nav-container">
     <!-- reverse left and right to put prev and next in a more logic postition -->
     
-      <a class="nav-left" href="/tech/search/">
+      <a class="nav-left" href="/about/help/">
         <span class="nav-arrow">← </span>
-        
-          搜索引擎推荐
-        
-      </a>
-    
-    
-      <a class="nav-right" href="/about/help/">
         
           【手动置顶】新的开始？
         
-        <span class="nav-arrow"> →</span>
       </a>
+    
     
   </div>
 
       <!-- Comment -->
       <div class="daily">
     <div class="card-container"></div>
-    
+<!--
 <script src="/js/valine.min.js"></script>
-
+--> 
     <div id="vcomments" class="commentboard"></div>
+    <script src="//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js"></script>
     <script>
-        new Valine({
+        // new Valine({
+        new Waline({
             el: '#vcomments',
+            // add serverURL
+            serverURL: 'https://comment-kappa.vercel.app',
             appId: 'M2JD6yGQhefhH2O0aSjFfclc-MdYXbMMI',
             appKey: 'arEPHdbMnKwMjQgiWsLgw34N',
             avatar: 'mp',

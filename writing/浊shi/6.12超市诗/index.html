@@ -211,13 +211,17 @@
       <!-- Comment -->
       <div class="daily">
     <div class="card-container"></div>
-    
+<!--
 <script src="/js/valine.min.js"></script>
-
+--> 
     <div id="vcomments" class="commentboard"></div>
+    <script src="//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js"></script>
     <script>
-        new Valine({
+        // new Valine({
+        new Waline({
             el: '#vcomments',
+            // add serverURL
+            serverURL: 'https://comment-kappa.vercel.app',
             appId: 'M2JD6yGQhefhH2O0aSjFfclc-MdYXbMMI',
             appKey: 'arEPHdbMnKwMjQgiWsLgw34N',
             avatar: 'mp',
