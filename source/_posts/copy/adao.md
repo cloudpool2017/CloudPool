@@ -1,3 +1,17 @@
+---
+title: a岛爱情故事
+date: 2021-05-28
+author: RUGtKcc @adnmb3.com
+tags: 
+categories: 小说
+main: 爱情故事
+catalog: on
+counting: on 
+sub: 1
+---
+# 来源： 
+**[A岛匿名版 - RUGtKcc](https://adnmb3.com/Forum/po/id/37978195/page/1.html) 串号：37978195**
+
 事后一颗烟，赛过活神仙。
 我叼着烟躺在床上，盯着天花板，被子盖住我光溜溜的下半身。
 然后我被抽了一巴掌在肩膀上。啪的一声，清脆又响亮。
