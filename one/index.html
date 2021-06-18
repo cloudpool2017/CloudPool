@@ -165,9 +165,6 @@
     <h4>接口来自: <a href="https://hitokoto.cn/" target="_blank" rel="noopener">一言</a></h4>
 </main>
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
-
-<script src="/js/valine.min.js"></script>
-
 <script>
     (function () {
         var url = 'https://zhuochi.org/one/index.html';
@@ -179,15 +176,27 @@
                 })
     })()
 </script>
+<!--
+<script src="/js/valine.min.js"></script>
+-->
+<script src="//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js"></script>
 <script>
-    new Valine({
+    new Waline({
         el: '#vcomments',
+        serverURL: 'https://comment-kappa.vercel.app',
+        emoji: [
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+        ],
         appId: 'M2JD6yGQhefhH2O0aSjFfclc-MdYXbMMI',
         appKey: 'arEPHdbMnKwMjQgiWsLgw34N',
         avatar: 'mp',
-        enableQQ: true,
+//      enableQQ: true,
         placeholder: '支持Markdown语法 ',
-        requiredFields: [''],
+        requiredFields: [''], 
     })
 </script>
     <aside class="sidebar">

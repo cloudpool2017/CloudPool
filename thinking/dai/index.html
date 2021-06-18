@@ -183,12 +183,12 @@
       <div class="tags">
         <span>标签：</span>
         
-  <a href="/tag#BB" >
-    <span class="tag-code">BB</span>
-  </a>
-
   <a href="/tag#网络" >
     <span class="tag-code">网络</span>
+  </a>
+
+  <a href="/tag#BB" >
+    <span class="tag-code">BB</span>
   </a>
 
       </div>
@@ -229,12 +229,17 @@
             el: '#vcomments',
             // add serverURL
             serverURL: 'https://comment-kappa.vercel.app',
+            // add emoji
+            emoji: [
+                'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
+                'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+                'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
+                'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
+                'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus',
+            ],
             appId: 'M2JD6yGQhefhH2O0aSjFfclc-MdYXbMMI',
             appKey: 'arEPHdbMnKwMjQgiWsLgw34N',
             avatar: 'mp',
-            enableQQ: 'true',
-            placeholder: '说点什么吧 \n ',
-            requiredFields: [''],
         })
     </script>
 </div>

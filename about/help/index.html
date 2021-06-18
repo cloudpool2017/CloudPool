@@ -277,13 +277,20 @@
   <div class="nav-container">
     <!-- reverse left and right to put prev and next in a more logic postition -->
     
-      <a class="nav-left" href="/about/markdown_grammar/">
+      <a class="nav-left" href="/copy/adao37978195/">
         <span class="nav-arrow">← </span>
         
-          Markdown语法帮助
+          a岛爱情故事
         
       </a>
     
+    
+      <a class="nav-right" href="/about/markdown_grammar/">
+        
+          Markdown语法帮助
+        
+        <span class="nav-arrow"> →</span>
+      </a>
     
   </div>
 
@@ -301,12 +308,17 @@
             el: '#vcomments',
             // add serverURL
             serverURL: 'https://comment-kappa.vercel.app',
+            // add emoji
+            emoji: [
+                'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
+                'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+                'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
+                'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
+                'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus',
+            ],
             appId: 'M2JD6yGQhefhH2O0aSjFfclc-MdYXbMMI',
             appKey: 'arEPHdbMnKwMjQgiWsLgw34N',
             avatar: 'mp',
-            enableQQ: 'true',
-            placeholder: '说点什么吧 \n ',
-            requiredFields: [''],
         })
     </script>
 </div>
